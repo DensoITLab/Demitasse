@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>VGG-16</string>
+		<key>size</key>
+		<integer>527</integer>
+		<key>model</key>
+		<string>vgg_16.model</string>
+		<key>url</key>
+		<string>https://s3-ap-northeast-1.amazonaws.com/ditlab-public/vgg_16.model</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>VGG-CNN-F</string>
+		<key>size</key>
+		<integer>232</integer>
+		<key>model</key>
+		<string>vgg_cnn_f.model</string>
+		<key>url</key>
+		<string>https://s3-ap-northeast-1.amazonaws.com/ditlab-public/vgg_cnn_f.model</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>VGG-16 (Binary Compression)</string>
+		<key>size</key>
+		<integer>157</integer>
+		<key>model</key>
+		<string>vgg_16_bin.model</string>
+		<key>url</key>
+		<string>https://s3-ap-northeast-1.amazonaws.com/ditlab-public/vgg_16_bin.model</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>VGG-CNN-F (Binary Compression)</string>
+		<key>size</key>
+		<integer>106</integer>
+		<key>model</key>
+		<string>vgg_cnn_f_bin.model</string>
+		<key>url</key>
+		<string>https://s3-ap-northeast-1.amazonaws.com/ditlab-public/vgg_cnn_f_bin.model</string>
+	</dict>
+</array>
+</plist>

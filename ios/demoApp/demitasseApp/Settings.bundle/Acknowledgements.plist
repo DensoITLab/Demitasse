@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>FooterText</key>
+			<string>This application makes use of the following third party libraries and data sets:</string>
+			<key>Title</key>
+			<string>Acknowledgements</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>The models are the improved versions of the models used by the VGG team in the ILSVRC-2014 competition.
+
+Very Deep Convolutional Networks for Large-Scale Image Recognition
+K. Simonyan, A. Zisserman
+arXiv:1409.1556</string>
+			<key>Title</key>
+			<string>VGG-16</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>The models are trained on the ILSVRC-2012 dataset.
+
+Return of the Devil in the Details: Delving Deep into Convolutional Nets
+K. Chatfield, K. Simonyan, A. Vedaldi, A. Zisserman
+British Machine Vision Conference, 2014 (arXiv ref. cs1405.3531)</string>
+			<key>Title</key>
+			<string>VGG_CNN_F</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string></string>
+			<key>Title</key>
+			<string></string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright 2015 Google Inc.
+
+FlatBuffers is licensed under the Apache License, Version 2.0.</string>
+			<key>Title</key>
+			<string>FlatBuffers</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Acknowledgements</string>
+	<key>Title</key>
+	<string>Acknowledgements</string>
+</dict>
+</plist>

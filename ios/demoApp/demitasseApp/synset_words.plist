@@ -1,0 +1,7004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>n01440764</string>
+		<key>name</key>
+		<string>&quot;tench, Tinca tinca&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>n01443537</string>
+		<key>name</key>
+		<string>&quot;goldfish, Carassius auratus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01484850</string>
+		<key>name</key>
+		<string>&quot;great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01491361</string>
+		<key>name</key>
+		<string>&quot;tiger shark, Galeocerdo cuvieri&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01494475</string>
+		<key>name</key>
+		<string>&quot;hammerhead, hammerhead shark&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01496331</string>
+		<key>name</key>
+		<string>&quot;electric ray, crampfish, numbfish, torpedo&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01498041</string>
+		<key>name</key>
+		<string>stingray</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01514668</string>
+		<key>name</key>
+		<string>cock</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01514859</string>
+		<key>name</key>
+		<string>hen</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01518878</string>
+		<key>name</key>
+		<string>&quot;ostrich, Struthio camelus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01530575</string>
+		<key>name</key>
+		<string>&quot;brambling, Fringilla montifringilla&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01531178</string>
+		<key>name</key>
+		<string>&quot;goldfinch, Carduelis carduelis&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01532829</string>
+		<key>name</key>
+		<string>&quot;house finch, linnet, Carpodacus mexicanus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01534433</string>
+		<key>name</key>
+		<string>&quot;junco, snowbird&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01537544</string>
+		<key>name</key>
+		<string>&quot;indigo bunting, indigo finch, indigo bird, Passerina cyanea&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01558993</string>
+		<key>name</key>
+		<string>&quot;robin, American robin, Turdus migratorius&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01560419</string>
+		<key>name</key>
+		<string>bulbul</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01580077</string>
+		<key>name</key>
+		<string>jay</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01582220</string>
+		<key>name</key>
+		<string>magpie</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01592084</string>
+		<key>name</key>
+		<string>chickadee</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01601694</string>
+		<key>name</key>
+		<string>&quot;water ouzel, dipper&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01608432</string>
+		<key>name</key>
+		<string>kite</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01614925</string>
+		<key>name</key>
+		<string>&quot;bald eagle, American eagle, Haliaeetus leucocephalus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01616318</string>
+		<key>name</key>
+		<string>vulture</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01622779</string>
+		<key>name</key>
+		<string>&quot;great grey owl, great gray owl, Strix nebulosa&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01629819</string>
+		<key>name</key>
+		<string>&quot;European fire salamander, Salamandra salamandra&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01630670</string>
+		<key>name</key>
+		<string>&quot;common newt, Triturus vulgaris&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01631663</string>
+		<key>name</key>
+		<string>eft</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01632458</string>
+		<key>name</key>
+		<string>&quot;spotted salamander, Ambystoma maculatum&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01632777</string>
+		<key>name</key>
+		<string>&quot;axolotl, mud puppy, Ambystoma mexicanum&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01641577</string>
+		<key>name</key>
+		<string>&quot;bullfrog, Rana catesbeiana&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01644373</string>
+		<key>name</key>
+		<string>&quot;tree frog, tree-frog&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01644900</string>
+		<key>name</key>
+		<string>&quot;tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01664065</string>
+		<key>name</key>
+		<string>&quot;loggerhead, loggerhead turtle, Caretta caretta&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01665541</string>
+		<key>name</key>
+		<string>&quot;leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01667114</string>
+		<key>name</key>
+		<string>mud turtle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01667778</string>
+		<key>name</key>
+		<string>terrapin</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01669191</string>
+		<key>name</key>
+		<string>&quot;box turtle, box tortoise&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01675722</string>
+		<key>name</key>
+		<string>banded gecko</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01677366</string>
+		<key>name</key>
+		<string>&quot;common iguana, iguana, Iguana iguana&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01682714</string>
+		<key>name</key>
+		<string>&quot;American chameleon, anole, Anolis carolinensis&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01685808</string>
+		<key>name</key>
+		<string>&quot;whiptail, whiptail lizard&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01687978</string>
+		<key>name</key>
+		<string>agama</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01688243</string>
+		<key>name</key>
+		<string>&quot;frilled lizard, Chlamydosaurus kingi&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01689811</string>
+		<key>name</key>
+		<string>alligator lizard</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01692333</string>
+		<key>name</key>
+		<string>&quot;Gila monster, Heloderma suspectum&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01693334</string>
+		<key>name</key>
+		<string>&quot;green lizard, Lacerta viridis&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01694178</string>
+		<key>name</key>
+		<string>&quot;African chameleon, Chamaeleo chamaeleon&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01695060</string>
+		<key>name</key>
+		<string>&quot;Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01697457</string>
+		<key>name</key>
+		<string>&quot;African crocodile, Nile crocodile, Crocodylus niloticus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01698640</string>
+		<key>name</key>
+		<string>&quot;American alligator, Alligator mississipiensis&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01704323</string>
+		<key>name</key>
+		<string>triceratops</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01728572</string>
+		<key>name</key>
+		<string>&quot;thunder snake, worm snake, Carphophis amoenus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01728920</string>
+		<key>name</key>
+		<string>&quot;ringneck snake, ring-necked snake, ring snake&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01729322</string>
+		<key>name</key>
+		<string>&quot;hognose snake, puff adder, sand viper&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01729977</string>
+		<key>name</key>
+		<string>&quot;green snake, grass snake&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01734418</string>
+		<key>name</key>
+		<string>&quot;king snake, kingsnake&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01735189</string>
+		<key>name</key>
+		<string>&quot;garter snake, grass snake&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01737021</string>
+		<key>name</key>
+		<string>water snake</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01739381</string>
+		<key>name</key>
+		<string>vine snake</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01740131</string>
+		<key>name</key>
+		<string>&quot;night snake, Hypsiglena torquata&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01742172</string>
+		<key>name</key>
+		<string>&quot;boa constrictor, Constrictor constrictor&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01744401</string>
+		<key>name</key>
+		<string>&quot;rock python, rock snake, Python sebae&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01748264</string>
+		<key>name</key>
+		<string>&quot;Indian cobra, Naja naja&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01749939</string>
+		<key>name</key>
+		<string>green mamba</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01751748</string>
+		<key>name</key>
+		<string>sea snake</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01753488</string>
+		<key>name</key>
+		<string>&quot;horned viper, cerastes, sand viper, horned asp, Cerastes cornutus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01755581</string>
+		<key>name</key>
+		<string>&quot;diamondback, diamondback rattlesnake, Crotalus adamanteus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01756291</string>
+		<key>name</key>
+		<string>&quot;sidewinder, horned rattlesnake, Crotalus cerastes&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01768244</string>
+		<key>name</key>
+		<string>trilobite</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01770081</string>
+		<key>name</key>
+		<string>&quot;harvestman, daddy longlegs, Phalangium opilio&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01770393</string>
+		<key>name</key>
+		<string>scorpion</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01773157</string>
+		<key>name</key>
+		<string>&quot;black and gold garden spider, Argiope aurantia&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01773549</string>
+		<key>name</key>
+		<string>&quot;barn spider, Araneus cavaticus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01773797</string>
+		<key>name</key>
+		<string>&quot;garden spider, Aranea diademata&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01774384</string>
+		<key>name</key>
+		<string>&quot;black widow, Latrodectus mactans&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01774750</string>
+		<key>name</key>
+		<string>tarantula</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01775062</string>
+		<key>name</key>
+		<string>&quot;wolf spider, hunting spider&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01776313</string>
+		<key>name</key>
+		<string>tick</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01784675</string>
+		<key>name</key>
+		<string>centipede</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01795545</string>
+		<key>name</key>
+		<string>black grouse</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01796340</string>
+		<key>name</key>
+		<string>ptarmigan</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01797886</string>
+		<key>name</key>
+		<string>&quot;ruffed grouse, partridge, Bonasa umbellus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01798484</string>
+		<key>name</key>
+		<string>&quot;prairie chicken, prairie grouse, prairie fowl&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01806143</string>
+		<key>name</key>
+		<string>peacock</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01806567</string>
+		<key>name</key>
+		<string>quail</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01807496</string>
+		<key>name</key>
+		<string>partridge</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01817953</string>
+		<key>name</key>
+		<string>&quot;African grey, African gray, Psittacus erithacus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01818515</string>
+		<key>name</key>
+		<string>macaw</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01819313</string>
+		<key>name</key>
+		<string>&quot;sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01820546</string>
+		<key>name</key>
+		<string>lorikeet</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01824575</string>
+		<key>name</key>
+		<string>coucal</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01828970</string>
+		<key>name</key>
+		<string>bee eater</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01829413</string>
+		<key>name</key>
+		<string>hornbill</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01833805</string>
+		<key>name</key>
+		<string>hummingbird</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01843065</string>
+		<key>name</key>
+		<string>jacamar</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01843383</string>
+		<key>name</key>
+		<string>toucan</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01847000</string>
+		<key>name</key>
+		<string>drake</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01855032</string>
+		<key>name</key>
+		<string>&quot;red-breasted merganser, Mergus serrator&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01855672</string>
+		<key>name</key>
+		<string>goose</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01860187</string>
+		<key>name</key>
+		<string>&quot;black swan, Cygnus atratus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01871265</string>
+		<key>name</key>
+		<string>tusker</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01872401</string>
+		<key>name</key>
+		<string>&quot;echidna, spiny anteater, anteater&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01873310</string>
+		<key>name</key>
+		<string>&quot;platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01877812</string>
+		<key>name</key>
+		<string>&quot;wallaby, brush kangaroo&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01882714</string>
+		<key>name</key>
+		<string>&quot;koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01883070</string>
+		<key>name</key>
+		<string>wombat</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01910747</string>
+		<key>name</key>
+		<string>jellyfish</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01914609</string>
+		<key>name</key>
+		<string>&quot;sea anemone, anemone&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01917289</string>
+		<key>name</key>
+		<string>brain coral</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01924916</string>
+		<key>name</key>
+		<string>&quot;flatworm, platyhelminth&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01930112</string>
+		<key>name</key>
+		<string>&quot;nematode, nematode worm, roundworm&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01943899</string>
+		<key>name</key>
+		<string>conch</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01944390</string>
+		<key>name</key>
+		<string>snail</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01945685</string>
+		<key>name</key>
+		<string>slug</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01950731</string>
+		<key>name</key>
+		<string>&quot;sea slug, nudibranch&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01955084</string>
+		<key>name</key>
+		<string>&quot;chiton, coat-of-mail shell, sea cradle, polyplacophore&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01968897</string>
+		<key>name</key>
+		<string>&quot;chambered nautilus, pearly nautilus, nautilus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01978287</string>
+		<key>name</key>
+		<string>&quot;Dungeness crab, Cancer magister&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01978455</string>
+		<key>name</key>
+		<string>&quot;rock crab, Cancer irroratus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01980166</string>
+		<key>name</key>
+		<string>fiddler crab</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01981276</string>
+		<key>name</key>
+		<string>&quot;king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01983481</string>
+		<key>name</key>
+		<string>&quot;American lobster, Northern lobster, Maine lobster, Homarus americanus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01984695</string>
+		<key>name</key>
+		<string>&quot;spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01985128</string>
+		<key>name</key>
+		<string>&quot;crayfish, crawfish, crawdad, crawdaddy&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01986214</string>
+		<key>name</key>
+		<string>hermit crab</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n01990800</string>
+		<key>name</key>
+		<string>isopod</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02002556</string>
+		<key>name</key>
+		<string>&quot;white stork, Ciconia ciconia&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02002724</string>
+		<key>name</key>
+		<string>&quot;black stork, Ciconia nigra&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02006656</string>
+		<key>name</key>
+		<string>spoonbill</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02007558</string>
+		<key>name</key>
+		<string>flamingo</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02009229</string>
+		<key>name</key>
+		<string>&quot;little blue heron, Egretta caerulea&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02009912</string>
+		<key>name</key>
+		<string>&quot;American egret, great white heron, Egretta albus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02011460</string>
+		<key>name</key>
+		<string>bittern</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02012849</string>
+		<key>name</key>
+		<string>crane</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02013706</string>
+		<key>name</key>
+		<string>&quot;limpkin, Aramus pictus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02017213</string>
+		<key>name</key>
+		<string>&quot;European gallinule, Porphyrio porphyrio&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02018207</string>
+		<key>name</key>
+		<string>&quot;American coot, marsh hen, mud hen, water hen, Fulica americana&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02018795</string>
+		<key>name</key>
+		<string>bustard</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02025239</string>
+		<key>name</key>
+		<string>&quot;ruddy turnstone, Arenaria interpres&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02027492</string>
+		<key>name</key>
+		<string>&quot;red-backed sandpiper, dunlin, Erolia alpina&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02028035</string>
+		<key>name</key>
+		<string>&quot;redshank, Tringa totanus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02033041</string>
+		<key>name</key>
+		<string>dowitcher</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02037110</string>
+		<key>name</key>
+		<string>&quot;oystercatcher, oyster catcher&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02051845</string>
+		<key>name</key>
+		<string>pelican</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02056570</string>
+		<key>name</key>
+		<string>&quot;king penguin, Aptenodytes patagonica&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02058221</string>
+		<key>name</key>
+		<string>&quot;albatross, mollymawk&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02066245</string>
+		<key>name</key>
+		<string>&quot;grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02071294</string>
+		<key>name</key>
+		<string>&quot;killer whale, killer, orca, grampus, sea wolf, Orcinus orca&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02074367</string>
+		<key>name</key>
+		<string>&quot;dugong, Dugong dugon&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02077923</string>
+		<key>name</key>
+		<string>sea lion</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02085620</string>
+		<key>name</key>
+		<string>Chihuahua</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02085782</string>
+		<key>name</key>
+		<string>Japanese spaniel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02085936</string>
+		<key>name</key>
+		<string>&quot;Maltese dog, Maltese terrier, Maltese&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02086079</string>
+		<key>name</key>
+		<string>&quot;Pekinese, Pekingese, Peke&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02086240</string>
+		<key>name</key>
+		<string>Shih-Tzu</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02086646</string>
+		<key>name</key>
+		<string>Blenheim spaniel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02086910</string>
+		<key>name</key>
+		<string>papillon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02087046</string>
+		<key>name</key>
+		<string>toy terrier</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02087394</string>
+		<key>name</key>
+		<string>Rhodesian ridgeback</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02088094</string>
+		<key>name</key>
+		<string>&quot;Afghan hound, Afghan&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02088238</string>
+		<key>name</key>
+		<string>&quot;basset, basset hound&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02088364</string>
+		<key>name</key>
+		<string>beagle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02088466</string>
+		<key>name</key>
+		<string>&quot;bloodhound, sleuthhound&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02088632</string>
+		<key>name</key>
+		<string>bluetick</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02089078</string>
+		<key>name</key>
+		<string>black-and-tan coonhound</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02089867</string>
+		<key>name</key>
+		<string>&quot;Walker hound, Walker foxhound&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02089973</string>
+		<key>name</key>
+		<string>English foxhound</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02090379</string>
+		<key>name</key>
+		<string>redbone</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02090622</string>
+		<key>name</key>
+		<string>&quot;borzoi, Russian wolfhound&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02090721</string>
+		<key>name</key>
+		<string>Irish wolfhound</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02091032</string>
+		<key>name</key>
+		<string>Italian greyhound</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02091134</string>
+		<key>name</key>
+		<string>whippet</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02091244</string>
+		<key>name</key>
+		<string>&quot;Ibizan hound, Ibizan Podenco&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02091467</string>
+		<key>name</key>
+		<string>&quot;Norwegian elkhound, elkhound&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02091635</string>
+		<key>name</key>
+		<string>&quot;otterhound, otter hound&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02091831</string>
+		<key>name</key>
+		<string>&quot;Saluki, gazelle hound&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02092002</string>
+		<key>name</key>
+		<string>&quot;Scottish deerhound, deerhound&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02092339</string>
+		<key>name</key>
+		<string>Weimaraner</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02093256</string>
+		<key>name</key>
+		<string>&quot;Staffordshire bullterrier, Staffordshire bull terrier&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02093428</string>
+		<key>name</key>
+		<string>&quot;American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02093647</string>
+		<key>name</key>
+		<string>Bedlington terrier</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02093754</string>
+		<key>name</key>
+		<string>Border terrier</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02093859</string>
+		<key>name</key>
+		<string>Kerry blue terrier</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02093991</string>
+		<key>name</key>
+		<string>Irish terrier</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02094114</string>
+		<key>name</key>
+		<string>Norfolk terrier</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02094258</string>
+		<key>name</key>
+		<string>Norwich terrier</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02094433</string>
+		<key>name</key>
+		<string>Yorkshire terrier</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02095314</string>
+		<key>name</key>
+		<string>wire-haired fox terrier</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02095570</string>
+		<key>name</key>
+		<string>Lakeland terrier</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02095889</string>
+		<key>name</key>
+		<string>&quot;Sealyham terrier, Sealyham&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02096051</string>
+		<key>name</key>
+		<string>&quot;Airedale, Airedale terrier&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02096177</string>
+		<key>name</key>
+		<string>&quot;cairn, cairn terrier&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02096294</string>
+		<key>name</key>
+		<string>Australian terrier</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02096437</string>
+		<key>name</key>
+		<string>&quot;Dandie Dinmont, Dandie Dinmont terrier&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02096585</string>
+		<key>name</key>
+		<string>&quot;Boston bull, Boston terrier&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02097047</string>
+		<key>name</key>
+		<string>miniature schnauzer</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02097130</string>
+		<key>name</key>
+		<string>giant schnauzer</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02097209</string>
+		<key>name</key>
+		<string>standard schnauzer</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02097298</string>
+		<key>name</key>
+		<string>&quot;Scotch terrier, Scottish terrier, Scottie&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02097474</string>
+		<key>name</key>
+		<string>&quot;Tibetan terrier, chrysanthemum dog&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02097658</string>
+		<key>name</key>
+		<string>&quot;silky terrier, Sydney silky&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02098105</string>
+		<key>name</key>
+		<string>soft-coated wheaten terrier</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02098286</string>
+		<key>name</key>
+		<string>West Highland white terrier</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02098413</string>
+		<key>name</key>
+		<string>&quot;Lhasa, Lhasa apso&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02099267</string>
+		<key>name</key>
+		<string>flat-coated retriever</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02099429</string>
+		<key>name</key>
+		<string>curly-coated retriever</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02099601</string>
+		<key>name</key>
+		<string>golden retriever</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02099712</string>
+		<key>name</key>
+		<string>Labrador retriever</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02099849</string>
+		<key>name</key>
+		<string>Chesapeake Bay retriever</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02100236</string>
+		<key>name</key>
+		<string>German short-haired pointer</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02100583</string>
+		<key>name</key>
+		<string>&quot;vizsla, Hungarian pointer&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02100735</string>
+		<key>name</key>
+		<string>English setter</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02100877</string>
+		<key>name</key>
+		<string>&quot;Irish setter, red setter&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02101006</string>
+		<key>name</key>
+		<string>Gordon setter</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02101388</string>
+		<key>name</key>
+		<string>Brittany spaniel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02101556</string>
+		<key>name</key>
+		<string>&quot;clumber, clumber spaniel&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02102040</string>
+		<key>name</key>
+		<string>&quot;English springer, English springer spaniel&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02102177</string>
+		<key>name</key>
+		<string>Welsh springer spaniel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02102318</string>
+		<key>name</key>
+		<string>&quot;cocker spaniel, English cocker spaniel, cocker&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02102480</string>
+		<key>name</key>
+		<string>Sussex spaniel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02102973</string>
+		<key>name</key>
+		<string>Irish water spaniel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02104029</string>
+		<key>name</key>
+		<string>kuvasz</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02104365</string>
+		<key>name</key>
+		<string>schipperke</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02105056</string>
+		<key>name</key>
+		<string>groenendael</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02105162</string>
+		<key>name</key>
+		<string>malinois</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02105251</string>
+		<key>name</key>
+		<string>briard</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02105412</string>
+		<key>name</key>
+		<string>kelpie</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02105505</string>
+		<key>name</key>
+		<string>komondor</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02105641</string>
+		<key>name</key>
+		<string>&quot;Old English sheepdog, bobtail&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02105855</string>
+		<key>name</key>
+		<string>&quot;Shetland sheepdog, Shetland sheep dog, Shetland&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02106030</string>
+		<key>name</key>
+		<string>collie</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02106166</string>
+		<key>name</key>
+		<string>Border collie</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02106382</string>
+		<key>name</key>
+		<string>&quot;Bouvier des Flandres, Bouviers des Flandres&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02106550</string>
+		<key>name</key>
+		<string>Rottweiler</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02106662</string>
+		<key>name</key>
+		<string>&quot;German shepherd, German shepherd dog, German police dog, alsatian&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02107142</string>
+		<key>name</key>
+		<string>&quot;Doberman, Doberman pinscher&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02107312</string>
+		<key>name</key>
+		<string>miniature pinscher</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02107574</string>
+		<key>name</key>
+		<string>Greater Swiss Mountain dog</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02107683</string>
+		<key>name</key>
+		<string>Bernese mountain dog</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02107908</string>
+		<key>name</key>
+		<string>Appenzeller</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02108000</string>
+		<key>name</key>
+		<string>EntleBucher</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02108089</string>
+		<key>name</key>
+		<string>boxer</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02108422</string>
+		<key>name</key>
+		<string>bull mastiff</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02108551</string>
+		<key>name</key>
+		<string>Tibetan mastiff</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02108915</string>
+		<key>name</key>
+		<string>French bulldog</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02109047</string>
+		<key>name</key>
+		<string>Great Dane</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02109525</string>
+		<key>name</key>
+		<string>&quot;Saint Bernard, St Bernard&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02109961</string>
+		<key>name</key>
+		<string>&quot;Eskimo dog, husky&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02110063</string>
+		<key>name</key>
+		<string>&quot;malamute, malemute, Alaskan malamute&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02110185</string>
+		<key>name</key>
+		<string>Siberian husky</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02110341</string>
+		<key>name</key>
+		<string>&quot;dalmatian, coach dog, carriage dog&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02110627</string>
+		<key>name</key>
+		<string>&quot;affenpinscher, monkey pinscher, monkey dog&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02110806</string>
+		<key>name</key>
+		<string>basenji</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02110958</string>
+		<key>name</key>
+		<string>&quot;pug, pug-dog&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02111129</string>
+		<key>name</key>
+		<string>Leonberg</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02111277</string>
+		<key>name</key>
+		<string>&quot;Newfoundland, Newfoundland dog&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02111500</string>
+		<key>name</key>
+		<string>Great Pyrenees</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02111889</string>
+		<key>name</key>
+		<string>&quot;Samoyed, Samoyede&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02112018</string>
+		<key>name</key>
+		<string>Pomeranian</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02112137</string>
+		<key>name</key>
+		<string>&quot;chow, chow chow&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02112350</string>
+		<key>name</key>
+		<string>keeshond</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02112706</string>
+		<key>name</key>
+		<string>Brabancon griffon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02113023</string>
+		<key>name</key>
+		<string>&quot;Pembroke, Pembroke Welsh corgi&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02113186</string>
+		<key>name</key>
+		<string>&quot;Cardigan, Cardigan Welsh corgi&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02113624</string>
+		<key>name</key>
+		<string>toy poodle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02113712</string>
+		<key>name</key>
+		<string>miniature poodle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02113799</string>
+		<key>name</key>
+		<string>standard poodle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02113978</string>
+		<key>name</key>
+		<string>Mexican hairless</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02114367</string>
+		<key>name</key>
+		<string>&quot;timber wolf, grey wolf, gray wolf, Canis lupus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02114548</string>
+		<key>name</key>
+		<string>&quot;white wolf, Arctic wolf, Canis lupus tundrarum&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02114712</string>
+		<key>name</key>
+		<string>&quot;red wolf, maned wolf, Canis rufus, Canis niger&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02114855</string>
+		<key>name</key>
+		<string>&quot;coyote, prairie wolf, brush wolf, Canis latrans&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02115641</string>
+		<key>name</key>
+		<string>&quot;dingo, warrigal, warragal, Canis dingo&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02115913</string>
+		<key>name</key>
+		<string>&quot;dhole, Cuon alpinus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02116738</string>
+		<key>name</key>
+		<string>&quot;African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02117135</string>
+		<key>name</key>
+		<string>&quot;hyena, hyaena&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02119022</string>
+		<key>name</key>
+		<string>&quot;red fox, Vulpes vulpes&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02119789</string>
+		<key>name</key>
+		<string>&quot;kit fox, Vulpes macrotis&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02120079</string>
+		<key>name</key>
+		<string>&quot;Arctic fox, white fox, Alopex lagopus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02120505</string>
+		<key>name</key>
+		<string>&quot;grey fox, gray fox, Urocyon cinereoargenteus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02123045</string>
+		<key>name</key>
+		<string>&quot;tabby, tabby cat&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02123159</string>
+		<key>name</key>
+		<string>tiger cat</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02123394</string>
+		<key>name</key>
+		<string>Persian cat</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02123597</string>
+		<key>name</key>
+		<string>&quot;Siamese cat, Siamese&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02124075</string>
+		<key>name</key>
+		<string>Egyptian cat</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02125311</string>
+		<key>name</key>
+		<string>&quot;cougar, puma, catamount, mountain lion, painter, panther, Felis concolor&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02127052</string>
+		<key>name</key>
+		<string>&quot;lynx, catamount&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02128385</string>
+		<key>name</key>
+		<string>&quot;leopard, Panthera pardus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02128757</string>
+		<key>name</key>
+		<string>&quot;snow leopard, ounce, Panthera uncia&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02128925</string>
+		<key>name</key>
+		<string>&quot;jaguar, panther, Panthera onca, Felis onca&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02129165</string>
+		<key>name</key>
+		<string>&quot;lion, king of beasts, Panthera leo&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02129604</string>
+		<key>name</key>
+		<string>&quot;tiger, Panthera tigris&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02130308</string>
+		<key>name</key>
+		<string>&quot;cheetah, chetah, Acinonyx jubatus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02132136</string>
+		<key>name</key>
+		<string>&quot;brown bear, bruin, Ursus arctos&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02133161</string>
+		<key>name</key>
+		<string>&quot;American black bear, black bear, Ursus americanus, Euarctos americanus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02134084</string>
+		<key>name</key>
+		<string>&quot;ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02134418</string>
+		<key>name</key>
+		<string>&quot;sloth bear, Melursus ursinus, Ursus ursinus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02137549</string>
+		<key>name</key>
+		<string>mongoose</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02138441</string>
+		<key>name</key>
+		<string>&quot;meerkat, mierkat&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02165105</string>
+		<key>name</key>
+		<string>tiger beetle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02165456</string>
+		<key>name</key>
+		<string>&quot;ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02167151</string>
+		<key>name</key>
+		<string>&quot;ground beetle, carabid beetle&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02168699</string>
+		<key>name</key>
+		<string>&quot;long-horned beetle, longicorn, longicorn beetle&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02169497</string>
+		<key>name</key>
+		<string>&quot;leaf beetle, chrysomelid&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02172182</string>
+		<key>name</key>
+		<string>dung beetle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02174001</string>
+		<key>name</key>
+		<string>rhinoceros beetle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02177972</string>
+		<key>name</key>
+		<string>weevil</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02190166</string>
+		<key>name</key>
+		<string>fly</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02206856</string>
+		<key>name</key>
+		<string>bee</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02219486</string>
+		<key>name</key>
+		<string>&quot;ant, emmet, pismire&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02226429</string>
+		<key>name</key>
+		<string>&quot;grasshopper, hopper&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02229544</string>
+		<key>name</key>
+		<string>cricket</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02231487</string>
+		<key>name</key>
+		<string>&quot;walking stick, walkingstick, stick insect&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02233338</string>
+		<key>name</key>
+		<string>&quot;cockroach, roach&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02236044</string>
+		<key>name</key>
+		<string>&quot;mantis, mantid&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02256656</string>
+		<key>name</key>
+		<string>&quot;cicada, cicala&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02259212</string>
+		<key>name</key>
+		<string>leafhopper</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02264363</string>
+		<key>name</key>
+		<string>&quot;lacewing, lacewing fly&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02268443</string>
+		<key>name</key>
+		<string>&quot;dragonfly, darning needle, devil&apos;s darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02268853</string>
+		<key>name</key>
+		<string>damselfly</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02276258</string>
+		<key>name</key>
+		<string>admiral</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02277742</string>
+		<key>name</key>
+		<string>&quot;ringlet, ringlet butterfly&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02279972</string>
+		<key>name</key>
+		<string>&quot;monarch, monarch butterfly, milkweed butterfly, Danaus plexippus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02280649</string>
+		<key>name</key>
+		<string>cabbage butterfly</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02281406</string>
+		<key>name</key>
+		<string>&quot;sulphur butterfly, sulfur butterfly&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02281787</string>
+		<key>name</key>
+		<string>&quot;lycaenid, lycaenid butterfly&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02317335</string>
+		<key>name</key>
+		<string>&quot;starfish, sea star&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02319095</string>
+		<key>name</key>
+		<string>sea urchin</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02321529</string>
+		<key>name</key>
+		<string>&quot;sea cucumber, holothurian&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02325366</string>
+		<key>name</key>
+		<string>&quot;wood rabbit, cottontail, cottontail rabbit&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02326432</string>
+		<key>name</key>
+		<string>hare</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02328150</string>
+		<key>name</key>
+		<string>&quot;Angora, Angora rabbit&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02342885</string>
+		<key>name</key>
+		<string>hamster</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02346627</string>
+		<key>name</key>
+		<string>&quot;porcupine, hedgehog&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02356798</string>
+		<key>name</key>
+		<string>&quot;fox squirrel, eastern fox squirrel, Sciurus niger&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02361337</string>
+		<key>name</key>
+		<string>marmot</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02363005</string>
+		<key>name</key>
+		<string>beaver</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02364673</string>
+		<key>name</key>
+		<string>&quot;guinea pig, Cavia cobaya&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02389026</string>
+		<key>name</key>
+		<string>sorrel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02391049</string>
+		<key>name</key>
+		<string>zebra</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02395406</string>
+		<key>name</key>
+		<string>&quot;hog, pig, grunter, squealer, Sus scrofa&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02396427</string>
+		<key>name</key>
+		<string>&quot;wild boar, boar, Sus scrofa&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02397096</string>
+		<key>name</key>
+		<string>warthog</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02398521</string>
+		<key>name</key>
+		<string>&quot;hippopotamus, hippo, river horse, Hippopotamus amphibius&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02403003</string>
+		<key>name</key>
+		<string>ox</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02408429</string>
+		<key>name</key>
+		<string>&quot;water buffalo, water ox, Asiatic buffalo, Bubalus bubalis&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02410509</string>
+		<key>name</key>
+		<string>bison</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02412080</string>
+		<key>name</key>
+		<string>&quot;ram, tup&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02415577</string>
+		<key>name</key>
+		<string>&quot;bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02417914</string>
+		<key>name</key>
+		<string>&quot;ibex, Capra ibex&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02422106</string>
+		<key>name</key>
+		<string>hartebeest</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02422699</string>
+		<key>name</key>
+		<string>&quot;impala, Aepyceros melampus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02423022</string>
+		<key>name</key>
+		<string>gazelle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02437312</string>
+		<key>name</key>
+		<string>&quot;Arabian camel, dromedary, Camelus dromedarius&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02437616</string>
+		<key>name</key>
+		<string>llama</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02441942</string>
+		<key>name</key>
+		<string>weasel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02442845</string>
+		<key>name</key>
+		<string>mink</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02443114</string>
+		<key>name</key>
+		<string>&quot;polecat, fitch, foulmart, foumart, Mustela putorius&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02443484</string>
+		<key>name</key>
+		<string>&quot;black-footed ferret, ferret, Mustela nigripes&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02444819</string>
+		<key>name</key>
+		<string>otter</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02445715</string>
+		<key>name</key>
+		<string>&quot;skunk, polecat, wood pussy&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02447366</string>
+		<key>name</key>
+		<string>badger</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02454379</string>
+		<key>name</key>
+		<string>armadillo</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02457408</string>
+		<key>name</key>
+		<string>&quot;three-toed sloth, ai, Bradypus tridactylus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02480495</string>
+		<key>name</key>
+		<string>&quot;orangutan, orang, orangutang, Pongo pygmaeus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02480855</string>
+		<key>name</key>
+		<string>&quot;gorilla, Gorilla gorilla&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02481823</string>
+		<key>name</key>
+		<string>&quot;chimpanzee, chimp, Pan troglodytes&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02483362</string>
+		<key>name</key>
+		<string>&quot;gibbon, Hylobates lar&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02483708</string>
+		<key>name</key>
+		<string>&quot;siamang, Hylobates syndactylus, Symphalangus syndactylus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02484975</string>
+		<key>name</key>
+		<string>&quot;guenon, guenon monkey&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02486261</string>
+		<key>name</key>
+		<string>&quot;patas, hussar monkey, Erythrocebus patas&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02486410</string>
+		<key>name</key>
+		<string>baboon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02487347</string>
+		<key>name</key>
+		<string>macaque</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02488291</string>
+		<key>name</key>
+		<string>langur</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02488702</string>
+		<key>name</key>
+		<string>&quot;colobus, colobus monkey&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02489166</string>
+		<key>name</key>
+		<string>&quot;proboscis monkey, Nasalis larvatus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02490219</string>
+		<key>name</key>
+		<string>marmoset</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02492035</string>
+		<key>name</key>
+		<string>&quot;capuchin, ringtail, Cebus capucinus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02492660</string>
+		<key>name</key>
+		<string>&quot;howler monkey, howler&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02493509</string>
+		<key>name</key>
+		<string>&quot;titi, titi monkey&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02493793</string>
+		<key>name</key>
+		<string>&quot;spider monkey, Ateles geoffroyi&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02494079</string>
+		<key>name</key>
+		<string>&quot;squirrel monkey, Saimiri sciureus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02497673</string>
+		<key>name</key>
+		<string>&quot;Madagascar cat, ring-tailed lemur, Lemur catta&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02500267</string>
+		<key>name</key>
+		<string>&quot;indri, indris, Indri indri, Indri brevicaudatus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02504013</string>
+		<key>name</key>
+		<string>&quot;Indian elephant, Elephas maximus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02504458</string>
+		<key>name</key>
+		<string>&quot;African elephant, Loxodonta africana&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02509815</string>
+		<key>name</key>
+		<string>&quot;lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02510455</string>
+		<key>name</key>
+		<string>&quot;giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02514041</string>
+		<key>name</key>
+		<string>&quot;barracouta, snoek&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02526121</string>
+		<key>name</key>
+		<string>eel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02536864</string>
+		<key>name</key>
+		<string>&quot;coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02606052</string>
+		<key>name</key>
+		<string>&quot;rock beauty, Holocanthus tricolor&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02607072</string>
+		<key>name</key>
+		<string>anemone fish</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02640242</string>
+		<key>name</key>
+		<string>sturgeon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02641379</string>
+		<key>name</key>
+		<string>&quot;gar, garfish, garpike, billfish, Lepisosteus osseus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02643566</string>
+		<key>name</key>
+		<string>lionfish</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02655020</string>
+		<key>name</key>
+		<string>&quot;puffer, pufferfish, blowfish, globefish&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02666196</string>
+		<key>name</key>
+		<string>abacus</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02667093</string>
+		<key>name</key>
+		<string>abaya</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02669723</string>
+		<key>name</key>
+		<string>&quot;academic gown, academic robe, judge&apos;s robe&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02672831</string>
+		<key>name</key>
+		<string>&quot;accordion, piano accordion, squeeze box&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02676566</string>
+		<key>name</key>
+		<string>acoustic guitar</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02687172</string>
+		<key>name</key>
+		<string>&quot;aircraft carrier, carrier, flattop, attack aircraft carrier&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02690373</string>
+		<key>name</key>
+		<string>airliner</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02692877</string>
+		<key>name</key>
+		<string>&quot;airship, dirigible&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02699494</string>
+		<key>name</key>
+		<string>altar</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02701002</string>
+		<key>name</key>
+		<string>ambulance</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02704792</string>
+		<key>name</key>
+		<string>&quot;amphibian, amphibious vehicle&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02708093</string>
+		<key>name</key>
+		<string>analog clock</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02727426</string>
+		<key>name</key>
+		<string>&quot;apiary, bee house&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02730930</string>
+		<key>name</key>
+		<string>apron</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02747177</string>
+		<key>name</key>
+		<string>&quot;ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02749479</string>
+		<key>name</key>
+		<string>&quot;assault rifle, assault gun&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02769748</string>
+		<key>name</key>
+		<string>&quot;backpack, back pack, knapsack, packsack, rucksack, haversack&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02776631</string>
+		<key>name</key>
+		<string>&quot;bakery, bakeshop, bakehouse&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02777292</string>
+		<key>name</key>
+		<string>&quot;balance beam, beam&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02782093</string>
+		<key>name</key>
+		<string>balloon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02783161</string>
+		<key>name</key>
+		<string>&quot;ballpoint, ballpoint pen, ballpen, Biro&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02786058</string>
+		<key>name</key>
+		<string>Band Aid</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02787622</string>
+		<key>name</key>
+		<string>banjo</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02788148</string>
+		<key>name</key>
+		<string>&quot;bannister, banister, balustrade, balusters, handrail&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02790996</string>
+		<key>name</key>
+		<string>barbell</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02791124</string>
+		<key>name</key>
+		<string>barber chair</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02791270</string>
+		<key>name</key>
+		<string>barbershop</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02793495</string>
+		<key>name</key>
+		<string>barn</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02794156</string>
+		<key>name</key>
+		<string>barometer</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02795169</string>
+		<key>name</key>
+		<string>&quot;barrel, cask&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02797295</string>
+		<key>name</key>
+		<string>&quot;barrow, garden cart, lawn cart, wheelbarrow&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02799071</string>
+		<key>name</key>
+		<string>baseball</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02802426</string>
+		<key>name</key>
+		<string>basketball</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02804414</string>
+		<key>name</key>
+		<string>bassinet</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02804610</string>
+		<key>name</key>
+		<string>bassoon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02807133</string>
+		<key>name</key>
+		<string>&quot;bathing cap, swimming cap&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02808304</string>
+		<key>name</key>
+		<string>bath towel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02808440</string>
+		<key>name</key>
+		<string>&quot;bathtub, bathing tub, bath, tub&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02814533</string>
+		<key>name</key>
+		<string>&quot;beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02814860</string>
+		<key>name</key>
+		<string>&quot;beacon, lighthouse, beacon light, pharos&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02815834</string>
+		<key>name</key>
+		<string>beaker</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02817516</string>
+		<key>name</key>
+		<string>&quot;bearskin, busby, shako&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02823428</string>
+		<key>name</key>
+		<string>beer bottle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02823750</string>
+		<key>name</key>
+		<string>beer glass</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02825657</string>
+		<key>name</key>
+		<string>&quot;bell cote, bell cot&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02834397</string>
+		<key>name</key>
+		<string>bib</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02835271</string>
+		<key>name</key>
+		<string>&quot;bicycle-built-for-two, tandem bicycle, tandem&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02837789</string>
+		<key>name</key>
+		<string>&quot;bikini, two-piece&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02840245</string>
+		<key>name</key>
+		<string>&quot;binder, ring-binder&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02841315</string>
+		<key>name</key>
+		<string>&quot;binoculars, field glasses, opera glasses&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02843684</string>
+		<key>name</key>
+		<string>birdhouse</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02859443</string>
+		<key>name</key>
+		<string>boathouse</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02860847</string>
+		<key>name</key>
+		<string>&quot;bobsled, bobsleigh, bob&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02865351</string>
+		<key>name</key>
+		<string>&quot;bolo tie, bolo, bola tie, bola&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02869837</string>
+		<key>name</key>
+		<string>&quot;bonnet, poke bonnet&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02870880</string>
+		<key>name</key>
+		<string>bookcase</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02871525</string>
+		<key>name</key>
+		<string>&quot;bookshop, bookstore, bookstall&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02877765</string>
+		<key>name</key>
+		<string>bottlecap</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02879718</string>
+		<key>name</key>
+		<string>bow</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02883205</string>
+		<key>name</key>
+		<string>&quot;bow tie, bow-tie, bowtie&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02892201</string>
+		<key>name</key>
+		<string>&quot;brass, memorial tablet, plaque&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02892767</string>
+		<key>name</key>
+		<string>&quot;brassiere, bra, bandeau&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02894605</string>
+		<key>name</key>
+		<string>&quot;breakwater, groin, groyne, mole, bulwark, seawall, jetty&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02895154</string>
+		<key>name</key>
+		<string>&quot;breastplate, aegis, egis&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02906734</string>
+		<key>name</key>
+		<string>broom</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02909870</string>
+		<key>name</key>
+		<string>&quot;bucket, pail&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02910353</string>
+		<key>name</key>
+		<string>buckle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02916936</string>
+		<key>name</key>
+		<string>bulletproof vest</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02917067</string>
+		<key>name</key>
+		<string>&quot;bullet train, bullet&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02927161</string>
+		<key>name</key>
+		<string>&quot;butcher shop, meat market&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02930766</string>
+		<key>name</key>
+		<string>&quot;cab, hack, taxi, taxicab&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02939185</string>
+		<key>name</key>
+		<string>&quot;caldron, cauldron&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02948072</string>
+		<key>name</key>
+		<string>&quot;candle, taper, wax light&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02950826</string>
+		<key>name</key>
+		<string>cannon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02951358</string>
+		<key>name</key>
+		<string>canoe</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02951585</string>
+		<key>name</key>
+		<string>&quot;can opener, tin opener&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02963159</string>
+		<key>name</key>
+		<string>cardigan</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02965783</string>
+		<key>name</key>
+		<string>car mirror</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02966193</string>
+		<key>name</key>
+		<string>&quot;carousel, carrousel, merry-go-round, roundabout, whirligig&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02966687</string>
+		<key>name</key>
+		<string>&quot;carpenter&apos;s kit, tool kit&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02971356</string>
+		<key>name</key>
+		<string>carton</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02974003</string>
+		<key>name</key>
+		<string>car wheel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02977058</string>
+		<key>name</key>
+		<string>&quot;cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02978881</string>
+		<key>name</key>
+		<string>cassette</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02979186</string>
+		<key>name</key>
+		<string>cassette player</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02980441</string>
+		<key>name</key>
+		<string>castle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02981792</string>
+		<key>name</key>
+		<string>catamaran</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02988304</string>
+		<key>name</key>
+		<string>CD player</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02992211</string>
+		<key>name</key>
+		<string>&quot;cello, violoncello&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02992529</string>
+		<key>name</key>
+		<string>&quot;cellular telephone, cellular phone, cellphone, cell, mobile phone&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n02999410</string>
+		<key>name</key>
+		<string>chain</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03000134</string>
+		<key>name</key>
+		<string>chainlink fence</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03000247</string>
+		<key>name</key>
+		<string>&quot;chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03000684</string>
+		<key>name</key>
+		<string>&quot;chain saw, chainsaw&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03014705</string>
+		<key>name</key>
+		<string>chest</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03016953</string>
+		<key>name</key>
+		<string>&quot;chiffonier, commode&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03017168</string>
+		<key>name</key>
+		<string>&quot;chime, bell, gong&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03018349</string>
+		<key>name</key>
+		<string>&quot;china cabinet, china closet&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03026506</string>
+		<key>name</key>
+		<string>Christmas stocking</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03028079</string>
+		<key>name</key>
+		<string>&quot;church, church building&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03032252</string>
+		<key>name</key>
+		<string>&quot;cinema, movie theater, movie theatre, movie house, picture palace&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03041632</string>
+		<key>name</key>
+		<string>&quot;cleaver, meat cleaver, chopper&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03042490</string>
+		<key>name</key>
+		<string>cliff dwelling</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03045698</string>
+		<key>name</key>
+		<string>cloak</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03047690</string>
+		<key>name</key>
+		<string>&quot;clog, geta, patten, sabot&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03062245</string>
+		<key>name</key>
+		<string>cocktail shaker</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03063599</string>
+		<key>name</key>
+		<string>coffee mug</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03063689</string>
+		<key>name</key>
+		<string>coffeepot</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03065424</string>
+		<key>name</key>
+		<string>&quot;coil, spiral, volute, whorl, helix&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03075370</string>
+		<key>name</key>
+		<string>combination lock</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03085013</string>
+		<key>name</key>
+		<string>&quot;computer keyboard, keypad&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03089624</string>
+		<key>name</key>
+		<string>&quot;confectionery, confectionary, candy store&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03095699</string>
+		<key>name</key>
+		<string>&quot;container ship, containership, container vessel&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03100240</string>
+		<key>name</key>
+		<string>convertible</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03109150</string>
+		<key>name</key>
+		<string>&quot;corkscrew, bottle screw&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03110669</string>
+		<key>name</key>
+		<string>&quot;cornet, horn, trumpet, trump&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03124043</string>
+		<key>name</key>
+		<string>cowboy boot</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03124170</string>
+		<key>name</key>
+		<string>&quot;cowboy hat, ten-gallon hat&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03125729</string>
+		<key>name</key>
+		<string>cradle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03126707</string>
+		<key>name</key>
+		<string>crane</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03127747</string>
+		<key>name</key>
+		<string>crash helmet</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03127925</string>
+		<key>name</key>
+		<string>crate</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03131574</string>
+		<key>name</key>
+		<string>&quot;crib, cot&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03133878</string>
+		<key>name</key>
+		<string>Crock Pot</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03134739</string>
+		<key>name</key>
+		<string>croquet ball</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03141823</string>
+		<key>name</key>
+		<string>crutch</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03146219</string>
+		<key>name</key>
+		<string>cuirass</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03160309</string>
+		<key>name</key>
+		<string>&quot;dam, dike, dyke&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03179701</string>
+		<key>name</key>
+		<string>desk</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03180011</string>
+		<key>name</key>
+		<string>desktop computer</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03187595</string>
+		<key>name</key>
+		<string>&quot;dial telephone, dial phone&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03188531</string>
+		<key>name</key>
+		<string>&quot;diaper, nappy, napkin&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03196217</string>
+		<key>name</key>
+		<string>digital clock</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03197337</string>
+		<key>name</key>
+		<string>digital watch</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03201208</string>
+		<key>name</key>
+		<string>&quot;dining table, board&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03207743</string>
+		<key>name</key>
+		<string>&quot;dishrag, dishcloth&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03207941</string>
+		<key>name</key>
+		<string>&quot;dishwasher, dish washer, dishwashing machine&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03208938</string>
+		<key>name</key>
+		<string>&quot;disk brake, disc brake&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03216828</string>
+		<key>name</key>
+		<string>&quot;dock, dockage, docking facility&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03218198</string>
+		<key>name</key>
+		<string>&quot;dogsled, dog sled, dog sleigh&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03220513</string>
+		<key>name</key>
+		<string>dome</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03223299</string>
+		<key>name</key>
+		<string>&quot;doormat, welcome mat&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03240683</string>
+		<key>name</key>
+		<string>&quot;drilling platform, offshore rig&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03249569</string>
+		<key>name</key>
+		<string>&quot;drum, membranophone, tympan&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03250847</string>
+		<key>name</key>
+		<string>drumstick</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03255030</string>
+		<key>name</key>
+		<string>dumbbell</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03259280</string>
+		<key>name</key>
+		<string>Dutch oven</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03271574</string>
+		<key>name</key>
+		<string>&quot;electric fan, blower&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03272010</string>
+		<key>name</key>
+		<string>electric guitar</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03272562</string>
+		<key>name</key>
+		<string>electric locomotive</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03290653</string>
+		<key>name</key>
+		<string>entertainment center</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03291819</string>
+		<key>name</key>
+		<string>envelope</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03297495</string>
+		<key>name</key>
+		<string>espresso maker</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03314780</string>
+		<key>name</key>
+		<string>face powder</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03325584</string>
+		<key>name</key>
+		<string>&quot;feather boa, boa&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03337140</string>
+		<key>name</key>
+		<string>&quot;file, file cabinet, filing cabinet&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03344393</string>
+		<key>name</key>
+		<string>fireboat</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03345487</string>
+		<key>name</key>
+		<string>&quot;fire engine, fire truck&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03347037</string>
+		<key>name</key>
+		<string>&quot;fire screen, fireguard&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03355925</string>
+		<key>name</key>
+		<string>&quot;flagpole, flagstaff&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03372029</string>
+		<key>name</key>
+		<string>&quot;flute, transverse flute&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03376595</string>
+		<key>name</key>
+		<string>folding chair</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03379051</string>
+		<key>name</key>
+		<string>football helmet</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03384352</string>
+		<key>name</key>
+		<string>forklift</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03388043</string>
+		<key>name</key>
+		<string>fountain</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03388183</string>
+		<key>name</key>
+		<string>fountain pen</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03388549</string>
+		<key>name</key>
+		<string>four-poster</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03393912</string>
+		<key>name</key>
+		<string>freight car</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03394916</string>
+		<key>name</key>
+		<string>&quot;French horn, horn&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03400231</string>
+		<key>name</key>
+		<string>&quot;frying pan, frypan, skillet&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03404251</string>
+		<key>name</key>
+		<string>fur coat</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03417042</string>
+		<key>name</key>
+		<string>&quot;garbage truck, dustcart&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03424325</string>
+		<key>name</key>
+		<string>&quot;gasmask, respirator, gas helmet&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03425413</string>
+		<key>name</key>
+		<string>&quot;gas pump, gasoline pump, petrol pump, island dispenser&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03443371</string>
+		<key>name</key>
+		<string>goblet</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03444034</string>
+		<key>name</key>
+		<string>go-kart</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03445777</string>
+		<key>name</key>
+		<string>golf ball</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03445924</string>
+		<key>name</key>
+		<string>&quot;golfcart, golf cart&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03447447</string>
+		<key>name</key>
+		<string>gondola</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03447721</string>
+		<key>name</key>
+		<string>&quot;gong, tam-tam&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03450230</string>
+		<key>name</key>
+		<string>gown</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03452741</string>
+		<key>name</key>
+		<string>&quot;grand piano, grand&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03457902</string>
+		<key>name</key>
+		<string>&quot;greenhouse, nursery, glasshouse&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03459775</string>
+		<key>name</key>
+		<string>&quot;grille, radiator grille&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03461385</string>
+		<key>name</key>
+		<string>&quot;grocery store, grocery, food market, market&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03467068</string>
+		<key>name</key>
+		<string>guillotine</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03476684</string>
+		<key>name</key>
+		<string>hair slide</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03476991</string>
+		<key>name</key>
+		<string>hair spray</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03478589</string>
+		<key>name</key>
+		<string>half track</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03481172</string>
+		<key>name</key>
+		<string>hammer</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03482405</string>
+		<key>name</key>
+		<string>hamper</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03483316</string>
+		<key>name</key>
+		<string>&quot;hand blower, blow dryer, blow drier, hair dryer, hair drier&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03485407</string>
+		<key>name</key>
+		<string>&quot;hand-held computer, hand-held microcomputer&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03485794</string>
+		<key>name</key>
+		<string>&quot;handkerchief, hankie, hanky, hankey&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03492542</string>
+		<key>name</key>
+		<string>&quot;hard disc, hard disk, fixed disk&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03494278</string>
+		<key>name</key>
+		<string>&quot;harmonica, mouth organ, harp, mouth harp&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03495258</string>
+		<key>name</key>
+		<string>harp</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03496892</string>
+		<key>name</key>
+		<string>&quot;harvester, reaper&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03498962</string>
+		<key>name</key>
+		<string>hatchet</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03527444</string>
+		<key>name</key>
+		<string>holster</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03529860</string>
+		<key>name</key>
+		<string>&quot;home theater, home theatre&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03530642</string>
+		<key>name</key>
+		<string>honeycomb</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03532672</string>
+		<key>name</key>
+		<string>&quot;hook, claw&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03534580</string>
+		<key>name</key>
+		<string>&quot;hoopskirt, crinoline&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03535780</string>
+		<key>name</key>
+		<string>&quot;horizontal bar, high bar&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03538406</string>
+		<key>name</key>
+		<string>&quot;horse cart, horse-cart&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03544143</string>
+		<key>name</key>
+		<string>hourglass</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03584254</string>
+		<key>name</key>
+		<string>iPod</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03584829</string>
+		<key>name</key>
+		<string>&quot;iron, smoothing iron&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03590841</string>
+		<key>name</key>
+		<string>jack-o&apos;-lantern</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03594734</string>
+		<key>name</key>
+		<string>&quot;jean, blue jean, denim&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03594945</string>
+		<key>name</key>
+		<string>&quot;jeep, landrover&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03595614</string>
+		<key>name</key>
+		<string>&quot;jersey, T-shirt, tee shirt&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03598930</string>
+		<key>name</key>
+		<string>jigsaw puzzle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03599486</string>
+		<key>name</key>
+		<string>&quot;jinrikisha, ricksha, rickshaw&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03602883</string>
+		<key>name</key>
+		<string>joystick</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03617480</string>
+		<key>name</key>
+		<string>kimono</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03623198</string>
+		<key>name</key>
+		<string>knee pad</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03627232</string>
+		<key>name</key>
+		<string>knot</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03630383</string>
+		<key>name</key>
+		<string>&quot;lab coat, laboratory coat&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03633091</string>
+		<key>name</key>
+		<string>ladle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03637318</string>
+		<key>name</key>
+		<string>&quot;lampshade, lamp shade&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03642806</string>
+		<key>name</key>
+		<string>&quot;laptop, laptop computer&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03649909</string>
+		<key>name</key>
+		<string>&quot;lawn mower, mower&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03657121</string>
+		<key>name</key>
+		<string>&quot;lens cap, lens cover&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03658185</string>
+		<key>name</key>
+		<string>&quot;letter opener, paper knife, paperknife&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03661043</string>
+		<key>name</key>
+		<string>library</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03662601</string>
+		<key>name</key>
+		<string>lifeboat</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03666591</string>
+		<key>name</key>
+		<string>&quot;lighter, light, igniter, ignitor&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03670208</string>
+		<key>name</key>
+		<string>&quot;limousine, limo&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03673027</string>
+		<key>name</key>
+		<string>&quot;liner, ocean liner&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03676483</string>
+		<key>name</key>
+		<string>&quot;lipstick, lip rouge&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03680355</string>
+		<key>name</key>
+		<string>Loafer</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03690938</string>
+		<key>name</key>
+		<string>lotion</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03691459</string>
+		<key>name</key>
+		<string>&quot;loudspeaker, speaker, speaker unit, loudspeaker system, speaker system&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03692522</string>
+		<key>name</key>
+		<string>&quot;loupe, jeweler&apos;s loupe&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03697007</string>
+		<key>name</key>
+		<string>&quot;lumbermill, sawmill&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03706229</string>
+		<key>name</key>
+		<string>magnetic compass</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03709823</string>
+		<key>name</key>
+		<string>&quot;mailbag, postbag&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03710193</string>
+		<key>name</key>
+		<string>&quot;mailbox, letter box&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03710637</string>
+		<key>name</key>
+		<string>maillot</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03710721</string>
+		<key>name</key>
+		<string>&quot;maillot, tank suit&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03717622</string>
+		<key>name</key>
+		<string>manhole cover</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03720891</string>
+		<key>name</key>
+		<string>maraca</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03721384</string>
+		<key>name</key>
+		<string>&quot;marimba, xylophone&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03724870</string>
+		<key>name</key>
+		<string>mask</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03729826</string>
+		<key>name</key>
+		<string>matchstick</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03733131</string>
+		<key>name</key>
+		<string>maypole</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03733281</string>
+		<key>name</key>
+		<string>&quot;maze, labyrinth&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03733805</string>
+		<key>name</key>
+		<string>measuring cup</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03742115</string>
+		<key>name</key>
+		<string>&quot;medicine chest, medicine cabinet&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03743016</string>
+		<key>name</key>
+		<string>&quot;megalith, megalithic structure&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03759954</string>
+		<key>name</key>
+		<string>&quot;microphone, mike&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03761084</string>
+		<key>name</key>
+		<string>&quot;microwave, microwave oven&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03763968</string>
+		<key>name</key>
+		<string>military uniform</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03764736</string>
+		<key>name</key>
+		<string>milk can</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03769881</string>
+		<key>name</key>
+		<string>minibus</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03770439</string>
+		<key>name</key>
+		<string>&quot;miniskirt, mini&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03770679</string>
+		<key>name</key>
+		<string>minivan</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03773504</string>
+		<key>name</key>
+		<string>missile</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03775071</string>
+		<key>name</key>
+		<string>mitten</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03775546</string>
+		<key>name</key>
+		<string>mixing bowl</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03776460</string>
+		<key>name</key>
+		<string>&quot;mobile home, manufactured home&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03777568</string>
+		<key>name</key>
+		<string>Model T</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03777754</string>
+		<key>name</key>
+		<string>modem</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03781244</string>
+		<key>name</key>
+		<string>monastery</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03782006</string>
+		<key>name</key>
+		<string>monitor</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03785016</string>
+		<key>name</key>
+		<string>moped</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03786901</string>
+		<key>name</key>
+		<string>mortar</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03787032</string>
+		<key>name</key>
+		<string>mortarboard</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03788195</string>
+		<key>name</key>
+		<string>mosque</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03788365</string>
+		<key>name</key>
+		<string>mosquito net</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03791053</string>
+		<key>name</key>
+		<string>&quot;motor scooter, scooter&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03792782</string>
+		<key>name</key>
+		<string>&quot;mountain bike, all-terrain bike, off-roader&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03792972</string>
+		<key>name</key>
+		<string>mountain tent</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03793489</string>
+		<key>name</key>
+		<string>&quot;mouse, computer mouse&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03794056</string>
+		<key>name</key>
+		<string>mousetrap</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03796401</string>
+		<key>name</key>
+		<string>moving van</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03803284</string>
+		<key>name</key>
+		<string>muzzle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03804744</string>
+		<key>name</key>
+		<string>nail</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03814639</string>
+		<key>name</key>
+		<string>neck brace</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03814906</string>
+		<key>name</key>
+		<string>necklace</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03825788</string>
+		<key>name</key>
+		<string>nipple</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03832673</string>
+		<key>name</key>
+		<string>&quot;notebook, notebook computer&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03837869</string>
+		<key>name</key>
+		<string>obelisk</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03838899</string>
+		<key>name</key>
+		<string>&quot;oboe, hautboy, hautbois&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03840681</string>
+		<key>name</key>
+		<string>&quot;ocarina, sweet potato&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03841143</string>
+		<key>name</key>
+		<string>&quot;odometer, hodometer, mileometer, milometer&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03843555</string>
+		<key>name</key>
+		<string>oil filter</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03854065</string>
+		<key>name</key>
+		<string>&quot;organ, pipe organ&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03857828</string>
+		<key>name</key>
+		<string>&quot;oscilloscope, scope, cathode-ray oscilloscope, CRO&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03866082</string>
+		<key>name</key>
+		<string>overskirt</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03868242</string>
+		<key>name</key>
+		<string>oxcart</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03868863</string>
+		<key>name</key>
+		<string>oxygen mask</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03871628</string>
+		<key>name</key>
+		<string>packet</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03873416</string>
+		<key>name</key>
+		<string>&quot;paddle, boat paddle&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03874293</string>
+		<key>name</key>
+		<string>&quot;paddlewheel, paddle wheel&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03874599</string>
+		<key>name</key>
+		<string>padlock</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03876231</string>
+		<key>name</key>
+		<string>paintbrush</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03877472</string>
+		<key>name</key>
+		<string>&quot;pajama, pyjama, pj&apos;s, jammies&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03877845</string>
+		<key>name</key>
+		<string>palace</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03884397</string>
+		<key>name</key>
+		<string>&quot;panpipe, pandean pipe, syrinx&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03887697</string>
+		<key>name</key>
+		<string>paper towel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03888257</string>
+		<key>name</key>
+		<string>&quot;parachute, chute&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03888605</string>
+		<key>name</key>
+		<string>&quot;parallel bars, bars&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03891251</string>
+		<key>name</key>
+		<string>park bench</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03891332</string>
+		<key>name</key>
+		<string>parking meter</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03895866</string>
+		<key>name</key>
+		<string>&quot;passenger car, coach, carriage&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03899768</string>
+		<key>name</key>
+		<string>&quot;patio, terrace&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03902125</string>
+		<key>name</key>
+		<string>&quot;pay-phone, pay-station&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03903868</string>
+		<key>name</key>
+		<string>&quot;pedestal, plinth, footstall&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03908618</string>
+		<key>name</key>
+		<string>&quot;pencil box, pencil case&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03908714</string>
+		<key>name</key>
+		<string>pencil sharpener</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03916031</string>
+		<key>name</key>
+		<string>&quot;perfume, essence&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03920288</string>
+		<key>name</key>
+		<string>Petri dish</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03924679</string>
+		<key>name</key>
+		<string>photocopier</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03929660</string>
+		<key>name</key>
+		<string>&quot;pick, plectrum, plectron&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03929855</string>
+		<key>name</key>
+		<string>pickelhaube</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03930313</string>
+		<key>name</key>
+		<string>&quot;picket fence, paling&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03930630</string>
+		<key>name</key>
+		<string>&quot;pickup, pickup truck&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03933933</string>
+		<key>name</key>
+		<string>pier</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03935335</string>
+		<key>name</key>
+		<string>&quot;piggy bank, penny bank&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03937543</string>
+		<key>name</key>
+		<string>pill bottle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03938244</string>
+		<key>name</key>
+		<string>pillow</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03942813</string>
+		<key>name</key>
+		<string>ping-pong ball</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03944341</string>
+		<key>name</key>
+		<string>pinwheel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03947888</string>
+		<key>name</key>
+		<string>&quot;pirate, pirate ship&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03950228</string>
+		<key>name</key>
+		<string>&quot;pitcher, ewer&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03954731</string>
+		<key>name</key>
+		<string>&quot;plane, carpenter&apos;s plane, woodworking plane&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03956157</string>
+		<key>name</key>
+		<string>planetarium</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03958227</string>
+		<key>name</key>
+		<string>plastic bag</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03961711</string>
+		<key>name</key>
+		<string>plate rack</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03967562</string>
+		<key>name</key>
+		<string>&quot;plow, plough&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03970156</string>
+		<key>name</key>
+		<string>&quot;plunger, plumber&apos;s helper&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03976467</string>
+		<key>name</key>
+		<string>&quot;Polaroid camera, Polaroid Land camera&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03976657</string>
+		<key>name</key>
+		<string>pole</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03977966</string>
+		<key>name</key>
+		<string>&quot;police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03980874</string>
+		<key>name</key>
+		<string>poncho</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03982430</string>
+		<key>name</key>
+		<string>&quot;pool table, billiard table, snooker table&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03983396</string>
+		<key>name</key>
+		<string>&quot;pop bottle, soda bottle&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03991062</string>
+		<key>name</key>
+		<string>&quot;pot, flowerpot&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03992509</string>
+		<key>name</key>
+		<string>potter&apos;s wheel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03995372</string>
+		<key>name</key>
+		<string>power drill</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n03998194</string>
+		<key>name</key>
+		<string>&quot;prayer rug, prayer mat&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04004767</string>
+		<key>name</key>
+		<string>printer</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04005630</string>
+		<key>name</key>
+		<string>&quot;prison, prison house&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04008634</string>
+		<key>name</key>
+		<string>&quot;projectile, missile&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04009552</string>
+		<key>name</key>
+		<string>projector</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04019541</string>
+		<key>name</key>
+		<string>&quot;puck, hockey puck&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04023962</string>
+		<key>name</key>
+		<string>&quot;punching bag, punch bag, punching ball, punchball&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04026417</string>
+		<key>name</key>
+		<string>purse</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04033901</string>
+		<key>name</key>
+		<string>&quot;quill, quill pen&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04033995</string>
+		<key>name</key>
+		<string>&quot;quilt, comforter, comfort, puff&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04037443</string>
+		<key>name</key>
+		<string>&quot;racer, race car, racing car&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04039381</string>
+		<key>name</key>
+		<string>&quot;racket, racquet&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04040759</string>
+		<key>name</key>
+		<string>radiator</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04041544</string>
+		<key>name</key>
+		<string>&quot;radio, wireless&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04044716</string>
+		<key>name</key>
+		<string>&quot;radio telescope, radio reflector&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04049303</string>
+		<key>name</key>
+		<string>rain barrel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04065272</string>
+		<key>name</key>
+		<string>&quot;recreational vehicle, RV, R.V.&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04067472</string>
+		<key>name</key>
+		<string>reel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04069434</string>
+		<key>name</key>
+		<string>reflex camera</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04070727</string>
+		<key>name</key>
+		<string>&quot;refrigerator, icebox&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04074963</string>
+		<key>name</key>
+		<string>&quot;remote control, remote&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04081281</string>
+		<key>name</key>
+		<string>&quot;restaurant, eating house, eating place, eatery&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04086273</string>
+		<key>name</key>
+		<string>&quot;revolver, six-gun, six-shooter&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04090263</string>
+		<key>name</key>
+		<string>rifle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04099969</string>
+		<key>name</key>
+		<string>&quot;rocking chair, rocker&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04111531</string>
+		<key>name</key>
+		<string>rotisserie</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04116512</string>
+		<key>name</key>
+		<string>&quot;rubber eraser, rubber, pencil eraser&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04118538</string>
+		<key>name</key>
+		<string>rugby ball</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04118776</string>
+		<key>name</key>
+		<string>&quot;rule, ruler&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04120489</string>
+		<key>name</key>
+		<string>running shoe</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04125021</string>
+		<key>name</key>
+		<string>safe</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04127249</string>
+		<key>name</key>
+		<string>safety pin</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04131690</string>
+		<key>name</key>
+		<string>&quot;saltshaker, salt shaker&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04133789</string>
+		<key>name</key>
+		<string>sandal</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04136333</string>
+		<key>name</key>
+		<string>sarong</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04141076</string>
+		<key>name</key>
+		<string>&quot;sax, saxophone&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04141327</string>
+		<key>name</key>
+		<string>scabbard</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04141975</string>
+		<key>name</key>
+		<string>&quot;scale, weighing machine&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04146614</string>
+		<key>name</key>
+		<string>school bus</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04147183</string>
+		<key>name</key>
+		<string>schooner</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04149813</string>
+		<key>name</key>
+		<string>scoreboard</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04152593</string>
+		<key>name</key>
+		<string>&quot;screen, CRT screen&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04153751</string>
+		<key>name</key>
+		<string>screw</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04154565</string>
+		<key>name</key>
+		<string>screwdriver</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04162706</string>
+		<key>name</key>
+		<string>&quot;seat belt, seatbelt&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04179913</string>
+		<key>name</key>
+		<string>sewing machine</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04192698</string>
+		<key>name</key>
+		<string>&quot;shield, buckler&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04200800</string>
+		<key>name</key>
+		<string>&quot;shoe shop, shoe-shop, shoe store&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04201297</string>
+		<key>name</key>
+		<string>shoji</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04204238</string>
+		<key>name</key>
+		<string>shopping basket</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04204347</string>
+		<key>name</key>
+		<string>shopping cart</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04208210</string>
+		<key>name</key>
+		<string>shovel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04209133</string>
+		<key>name</key>
+		<string>shower cap</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04209239</string>
+		<key>name</key>
+		<string>shower curtain</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04228054</string>
+		<key>name</key>
+		<string>ski</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04229816</string>
+		<key>name</key>
+		<string>ski mask</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04235860</string>
+		<key>name</key>
+		<string>sleeping bag</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04238763</string>
+		<key>name</key>
+		<string>&quot;slide rule, slipstick&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04239074</string>
+		<key>name</key>
+		<string>sliding door</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04243546</string>
+		<key>name</key>
+		<string>&quot;slot, one-armed bandit&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04251144</string>
+		<key>name</key>
+		<string>snorkel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04252077</string>
+		<key>name</key>
+		<string>snowmobile</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04252225</string>
+		<key>name</key>
+		<string>&quot;snowplow, snowplough&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04254120</string>
+		<key>name</key>
+		<string>soap dispenser</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04254680</string>
+		<key>name</key>
+		<string>soccer ball</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04254777</string>
+		<key>name</key>
+		<string>sock</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04258138</string>
+		<key>name</key>
+		<string>&quot;solar dish, solar collector, solar furnace&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04259630</string>
+		<key>name</key>
+		<string>sombrero</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04263257</string>
+		<key>name</key>
+		<string>soup bowl</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04264628</string>
+		<key>name</key>
+		<string>space bar</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04265275</string>
+		<key>name</key>
+		<string>space heater</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04266014</string>
+		<key>name</key>
+		<string>space shuttle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04270147</string>
+		<key>name</key>
+		<string>spatula</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04273569</string>
+		<key>name</key>
+		<string>speedboat</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04275548</string>
+		<key>name</key>
+		<string>&quot;spider web, spider&apos;s web&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04277352</string>
+		<key>name</key>
+		<string>spindle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04285008</string>
+		<key>name</key>
+		<string>&quot;sports car, sport car&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04286575</string>
+		<key>name</key>
+		<string>&quot;spotlight, spot&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04296562</string>
+		<key>name</key>
+		<string>stage</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04310018</string>
+		<key>name</key>
+		<string>steam locomotive</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04311004</string>
+		<key>name</key>
+		<string>steel arch bridge</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04311174</string>
+		<key>name</key>
+		<string>steel drum</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04317175</string>
+		<key>name</key>
+		<string>stethoscope</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04325704</string>
+		<key>name</key>
+		<string>stole</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04326547</string>
+		<key>name</key>
+		<string>stone wall</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04328186</string>
+		<key>name</key>
+		<string>&quot;stopwatch, stop watch&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04330267</string>
+		<key>name</key>
+		<string>stove</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04332243</string>
+		<key>name</key>
+		<string>strainer</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04335435</string>
+		<key>name</key>
+		<string>&quot;streetcar, tram, tramcar, trolley, trolley car&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04336792</string>
+		<key>name</key>
+		<string>stretcher</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04344873</string>
+		<key>name</key>
+		<string>&quot;studio couch, day bed&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04346328</string>
+		<key>name</key>
+		<string>&quot;stupa, tope&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04347754</string>
+		<key>name</key>
+		<string>&quot;submarine, pigboat, sub, U-boat&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04350905</string>
+		<key>name</key>
+		<string>&quot;suit, suit of clothes&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04355338</string>
+		<key>name</key>
+		<string>sundial</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04355933</string>
+		<key>name</key>
+		<string>sunglass</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04356056</string>
+		<key>name</key>
+		<string>&quot;sunglasses, dark glasses, shades&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04357314</string>
+		<key>name</key>
+		<string>&quot;sunscreen, sunblock, sun blocker&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04366367</string>
+		<key>name</key>
+		<string>suspension bridge</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04367480</string>
+		<key>name</key>
+		<string>&quot;swab, swob, mop&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04370456</string>
+		<key>name</key>
+		<string>sweatshirt</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04371430</string>
+		<key>name</key>
+		<string>&quot;swimming trunks, bathing trunks&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04371774</string>
+		<key>name</key>
+		<string>swing</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04372370</string>
+		<key>name</key>
+		<string>&quot;switch, electric switch, electrical switch&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04376876</string>
+		<key>name</key>
+		<string>syringe</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04380533</string>
+		<key>name</key>
+		<string>table lamp</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04389033</string>
+		<key>name</key>
+		<string>&quot;tank, army tank, armored combat vehicle, armoured combat vehicle&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04392985</string>
+		<key>name</key>
+		<string>tape player</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04398044</string>
+		<key>name</key>
+		<string>teapot</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04399382</string>
+		<key>name</key>
+		<string>&quot;teddy, teddy bear&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04404412</string>
+		<key>name</key>
+		<string>&quot;television, television system&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04409515</string>
+		<key>name</key>
+		<string>tennis ball</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04417672</string>
+		<key>name</key>
+		<string>&quot;thatch, thatched roof&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04418357</string>
+		<key>name</key>
+		<string>&quot;theater curtain, theatre curtain&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04423845</string>
+		<key>name</key>
+		<string>thimble</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04428191</string>
+		<key>name</key>
+		<string>&quot;thresher, thrasher, threshing machine&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04429376</string>
+		<key>name</key>
+		<string>throne</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04435653</string>
+		<key>name</key>
+		<string>tile roof</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04442312</string>
+		<key>name</key>
+		<string>toaster</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04443257</string>
+		<key>name</key>
+		<string>&quot;tobacco shop, tobacconist shop, tobacconist&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04447861</string>
+		<key>name</key>
+		<string>toilet seat</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04456115</string>
+		<key>name</key>
+		<string>torch</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04458633</string>
+		<key>name</key>
+		<string>totem pole</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04461696</string>
+		<key>name</key>
+		<string>&quot;tow truck, tow car, wrecker&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04462240</string>
+		<key>name</key>
+		<string>toyshop</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04465501</string>
+		<key>name</key>
+		<string>tractor</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04467665</string>
+		<key>name</key>
+		<string>&quot;trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04476259</string>
+		<key>name</key>
+		<string>tray</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04479046</string>
+		<key>name</key>
+		<string>trench coat</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04482393</string>
+		<key>name</key>
+		<string>&quot;tricycle, trike, velocipede&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04483307</string>
+		<key>name</key>
+		<string>trimaran</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04485082</string>
+		<key>name</key>
+		<string>tripod</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04486054</string>
+		<key>name</key>
+		<string>triumphal arch</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04487081</string>
+		<key>name</key>
+		<string>&quot;trolleybus, trolley coach, trackless trolley&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04487394</string>
+		<key>name</key>
+		<string>trombone</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04493381</string>
+		<key>name</key>
+		<string>&quot;tub, vat&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04501370</string>
+		<key>name</key>
+		<string>turnstile</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04505470</string>
+		<key>name</key>
+		<string>typewriter keyboard</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04507155</string>
+		<key>name</key>
+		<string>umbrella</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04509417</string>
+		<key>name</key>
+		<string>&quot;unicycle, monocycle&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04515003</string>
+		<key>name</key>
+		<string>&quot;upright, upright piano&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04517823</string>
+		<key>name</key>
+		<string>&quot;vacuum, vacuum cleaner&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04522168</string>
+		<key>name</key>
+		<string>vase</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04523525</string>
+		<key>name</key>
+		<string>vault</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04525038</string>
+		<key>name</key>
+		<string>velvet</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04525305</string>
+		<key>name</key>
+		<string>vending machine</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04532106</string>
+		<key>name</key>
+		<string>vestment</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04532670</string>
+		<key>name</key>
+		<string>viaduct</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04536866</string>
+		<key>name</key>
+		<string>&quot;violin, fiddle&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04540053</string>
+		<key>name</key>
+		<string>volleyball</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04542943</string>
+		<key>name</key>
+		<string>waffle iron</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04548280</string>
+		<key>name</key>
+		<string>wall clock</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04548362</string>
+		<key>name</key>
+		<string>&quot;wallet, billfold, notecase, pocketbook&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04550184</string>
+		<key>name</key>
+		<string>&quot;wardrobe, closet, press&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04552348</string>
+		<key>name</key>
+		<string>&quot;warplane, military plane&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04553703</string>
+		<key>name</key>
+		<string>&quot;washbasin, handbasin, washbowl, lavabo, wash-hand basin&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04554684</string>
+		<key>name</key>
+		<string>&quot;washer, automatic washer, washing machine&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04557648</string>
+		<key>name</key>
+		<string>water bottle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04560804</string>
+		<key>name</key>
+		<string>water jug</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04562935</string>
+		<key>name</key>
+		<string>water tower</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04579145</string>
+		<key>name</key>
+		<string>whiskey jug</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04579432</string>
+		<key>name</key>
+		<string>whistle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04584207</string>
+		<key>name</key>
+		<string>wig</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04589890</string>
+		<key>name</key>
+		<string>window screen</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04590129</string>
+		<key>name</key>
+		<string>window shade</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04591157</string>
+		<key>name</key>
+		<string>Windsor tie</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04591713</string>
+		<key>name</key>
+		<string>wine bottle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04592741</string>
+		<key>name</key>
+		<string>wing</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04596742</string>
+		<key>name</key>
+		<string>wok</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04597913</string>
+		<key>name</key>
+		<string>wooden spoon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04599235</string>
+		<key>name</key>
+		<string>&quot;wool, woolen, woollen&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04604644</string>
+		<key>name</key>
+		<string>&quot;worm fence, snake fence, snake-rail fence, Virginia fence&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04606251</string>
+		<key>name</key>
+		<string>wreck</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04612504</string>
+		<key>name</key>
+		<string>yawl</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n04613696</string>
+		<key>name</key>
+		<string>yurt</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n06359193</string>
+		<key>name</key>
+		<string>&quot;web site, website, internet site, site&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n06596364</string>
+		<key>name</key>
+		<string>comic book</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n06785654</string>
+		<key>name</key>
+		<string>&quot;crossword puzzle, crossword&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n06794110</string>
+		<key>name</key>
+		<string>street sign</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n06874185</string>
+		<key>name</key>
+		<string>&quot;traffic light, traffic signal, stoplight&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07248320</string>
+		<key>name</key>
+		<string>&quot;book jacket, dust cover, dust jacket, dust wrapper&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07565083</string>
+		<key>name</key>
+		<string>menu</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07579787</string>
+		<key>name</key>
+		<string>plate</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07583066</string>
+		<key>name</key>
+		<string>guacamole</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07584110</string>
+		<key>name</key>
+		<string>consomme</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07590611</string>
+		<key>name</key>
+		<string>&quot;hot pot, hotpot&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07613480</string>
+		<key>name</key>
+		<string>trifle</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07614500</string>
+		<key>name</key>
+		<string>&quot;ice cream, icecream&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07615774</string>
+		<key>name</key>
+		<string>&quot;ice lolly, lolly, lollipop, popsicle&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07684084</string>
+		<key>name</key>
+		<string>French loaf</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07693725</string>
+		<key>name</key>
+		<string>&quot;bagel, beigel&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07695742</string>
+		<key>name</key>
+		<string>pretzel</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07697313</string>
+		<key>name</key>
+		<string>cheeseburger</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07697537</string>
+		<key>name</key>
+		<string>&quot;hotdog, hot dog, red hot&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07711569</string>
+		<key>name</key>
+		<string>mashed potato</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07714571</string>
+		<key>name</key>
+		<string>head cabbage</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07714990</string>
+		<key>name</key>
+		<string>broccoli</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07715103</string>
+		<key>name</key>
+		<string>cauliflower</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07716358</string>
+		<key>name</key>
+		<string>&quot;zucchini, courgette&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07716906</string>
+		<key>name</key>
+		<string>spaghetti squash</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07717410</string>
+		<key>name</key>
+		<string>acorn squash</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07717556</string>
+		<key>name</key>
+		<string>butternut squash</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07718472</string>
+		<key>name</key>
+		<string>&quot;cucumber, cuke&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07718747</string>
+		<key>name</key>
+		<string>&quot;artichoke, globe artichoke&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07720875</string>
+		<key>name</key>
+		<string>bell pepper</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07730033</string>
+		<key>name</key>
+		<string>cardoon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07734744</string>
+		<key>name</key>
+		<string>mushroom</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07742313</string>
+		<key>name</key>
+		<string>Granny Smith</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07745940</string>
+		<key>name</key>
+		<string>strawberry</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07747607</string>
+		<key>name</key>
+		<string>orange</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07749582</string>
+		<key>name</key>
+		<string>lemon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07753113</string>
+		<key>name</key>
+		<string>fig</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07753275</string>
+		<key>name</key>
+		<string>&quot;pineapple, ananas&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07753592</string>
+		<key>name</key>
+		<string>banana</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07754684</string>
+		<key>name</key>
+		<string>&quot;jackfruit, jak, jack&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07760859</string>
+		<key>name</key>
+		<string>custard apple</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07768694</string>
+		<key>name</key>
+		<string>pomegranate</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07802026</string>
+		<key>name</key>
+		<string>hay</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07831146</string>
+		<key>name</key>
+		<string>carbonara</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07836838</string>
+		<key>name</key>
+		<string>&quot;chocolate sauce, chocolate syrup&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07860988</string>
+		<key>name</key>
+		<string>dough</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07871810</string>
+		<key>name</key>
+		<string>&quot;meat loaf, meatloaf&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07873807</string>
+		<key>name</key>
+		<string>&quot;pizza, pizza pie&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07875152</string>
+		<key>name</key>
+		<string>potpie</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07880968</string>
+		<key>name</key>
+		<string>burrito</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07892512</string>
+		<key>name</key>
+		<string>red wine</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07920052</string>
+		<key>name</key>
+		<string>espresso</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07930864</string>
+		<key>name</key>
+		<string>cup</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n07932039</string>
+		<key>name</key>
+		<string>eggnog</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n09193705</string>
+		<key>name</key>
+		<string>alp</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n09229709</string>
+		<key>name</key>
+		<string>bubble</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n09246464</string>
+		<key>name</key>
+		<string>&quot;cliff, drop, drop-off&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n09256479</string>
+		<key>name</key>
+		<string>coral reef</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n09288635</string>
+		<key>name</key>
+		<string>geyser</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n09332890</string>
+		<key>name</key>
+		<string>&quot;lakeside, lakeshore&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n09399592</string>
+		<key>name</key>
+		<string>&quot;promontory, headland, head, foreland&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n09421951</string>
+		<key>name</key>
+		<string>&quot;sandbar, sand bar&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n09428293</string>
+		<key>name</key>
+		<string>&quot;seashore, coast, seacoast, sea-coast&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n09468604</string>
+		<key>name</key>
+		<string>&quot;valley, vale&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n09472597</string>
+		<key>name</key>
+		<string>volcano</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n09835506</string>
+		<key>name</key>
+		<string>&quot;ballplayer, baseball player&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n10148035</string>
+		<key>name</key>
+		<string>&quot;groom, bridegroom&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n10565667</string>
+		<key>name</key>
+		<string>scuba diver</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n11879895</string>
+		<key>name</key>
+		<string>rapeseed</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n11939491</string>
+		<key>name</key>
+		<string>daisy</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n12057211</string>
+		<key>name</key>
+		<string>&quot;yellow lady&apos;s slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n12144580</string>
+		<key>name</key>
+		<string>corn</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n12267677</string>
+		<key>name</key>
+		<string>acorn</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n12620546</string>
+		<key>name</key>
+		<string>&quot;hip, rose hip, rosehip&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n12768682</string>
+		<key>name</key>
+		<string>&quot;buckeye, horse chestnut, conker&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n12985857</string>
+		<key>name</key>
+		<string>coral fungus</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n12998815</string>
+		<key>name</key>
+		<string>agaric</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n13037406</string>
+		<key>name</key>
+		<string>gyromitra</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n13040303</string>
+		<key>name</key>
+		<string>&quot;stinkhorn, carrion fungus&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n13044778</string>
+		<key>name</key>
+		<string>earthstar</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n13052670</string>
+		<key>name</key>
+		<string>&quot;hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n13054560</string>
+		<key>name</key>
+		<string>bolete</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n13133613</string>
+		<key>name</key>
+		<string>&quot;ear, spike, capitulum&quot;</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>
+n15075141</string>
+		<key>name</key>
+		<string>&quot;toilet tissue, toilet paper, bathroom tissue&quot;</string>
+	</dict>
+</array>
+</plist>

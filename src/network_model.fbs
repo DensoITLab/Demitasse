@@ -1,0 +1,122 @@
+/*
+Copyright (C) 2016 Denso IT Laboratory, Inc.
+All Rights Reserved
+
+Denso IT Laboratory, Inc. retains sole and exclusive ownership of all
+intellectual property rights including copyrights and patents related to this
+Software.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the Software and accompanying documentation to use, copy, modify, merge,
+publish, or distribute the Software or software derived from it for
+non-commercial purposes, such as academic study, education and personal use,
+subject to the following conditions:
+
+1. Redistributions of source code must retain the above copyright notice,
+this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+this list of conditions and the following disclaimer in the documentation
+and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+ */
+
+namespace demitasse.serialize;
+
+enum LayerType : byte {
+  identity = 1,
+  sigmoid,
+  tanh,
+  ReLU,
+  softmax,
+  Convolution,
+  MaxPooling,
+  FullyConnected,
+  LRN,
+  AvaragePooling,
+  BinaryFullyConnected,
+  BinaryConvolution,
+}
+
+enum TensorType : byte {
+  Float   = 0,  // real (single) floating value
+  Binary  = 1,  // binary
+  Ternary = 2,  // ternary
+}
+
+table BinaryValue {
+  data            : [ubyte];  // binary
+}
+
+table TernaryValue {
+  star            : [ubyte];  // ternary
+  mask            : [ubyte];  // for ternary value
+  nnz             : [uint];   // for ternary value
+}
+
+table FloatValue {
+  data            : [float];  // value
+}
+
+union TensorValue {
+  BinaryValue,
+  TernaryValue,
+  FloatValue
+}
+
+table Tensor {
+  type            : TensorType;
+  extent          : [int];
+  value           : TensorValue;
+}
+
+table Encoder {
+  num_basis       : int;        // num of basis row (input)
+  table_size      : int;        // lookup table size
+  lut             : [ubyte];    // (lut_size * num_basis) / 8 (packed by ubyte)
+  coff1           : float;      // encode param(coff1)
+  coff2           : float;      // encode param(coff2)
+}
+
+table Layer {
+  type            : LayerType  = FullyConnected;
+  name            : string;     // layer name
+  in_maps         : int;        // input data channel  (conv layer, Fully Connected, BinaryFC Layer)
+  out_maps        : int;        // # of filters        (conv layer, Fully Connected, BinaryFC Layer)
+  ksize           : int;        // kernel/filter size  (conv layer), local_size (LRN layer)
+  stride          : int   = 1;  // for 2D data layer   (conv,max,avg pooling layer)
+  padding         : int   = 0;  // for 2D data layer   (conv,max,avg pooling layer)
+
+  k               : float;      // LRN layer
+  alpha           : float;      // LRN layer
+  beta            : float;      // LRN layer
+
+  weight          : [float];    // FIXME: change to Tensor type
+  bias            : [float];    // FIXME: change to Tensor type
+
+  // basis
+  num_basis       : int;        // num of basis row (filter)
+  num_basis_total : int;        // decomp_filter.num_basis_total
+  integer_basis   : Tensor;     // Binary/Ternary Basis matrix (decomp_filter.integer_basis)
+  basis_weight    : [float];    // weight for basis (decomp_map.weight) FIXME: change to Tensor type
+
+  // binary encoder
+  encoder         : Encoder;    // binary encoder (BinaryFC layer)
+}
+
+table Model {
+  layers  : [Layer];
+}
+
+root_type Model;

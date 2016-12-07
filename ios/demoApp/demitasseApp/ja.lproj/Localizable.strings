@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  demitasseApp
+
+  Created by Satoshi Kondo on 2016/07/01.
+  Copyright © 2016年 DENSO IT LABORATORY, INC. All rights reserved.
+*/
+
+"Download"              = "ダウンロード開始";
+"Cancel"                = "キャンセル";
+"Pretrained Model Data" = "学習済みモデルデータ";
+"Downloaded"            = "ダウンロード済み";
+"Not Downloaded"        = "未ダウンロード";
+"Not Supported"         = "未対応";

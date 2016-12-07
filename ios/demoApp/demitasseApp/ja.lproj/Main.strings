@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Download Model Data"; ObjectID = "9kX-6V-awe"; */
+"9kX-6V-awe.text" = "モデルデータの選択";
+
+/* Class = "UIButton"; normalTitle = "Download"; ObjectID = "OG4-fd-Hgp"; */
+"OG4-fd-Hgp.normalTitle" = "ダウンロード";
+
+/* Class = "UILabel"; text = "Loading Model Data ..."; ObjectID = "fve-YQ-jcN"; */
+"fve-YQ-jcN.text" = "モデルデータを読み込み中 ...";
+
+/* Class = "UILabel"; text = "000/999 MB"; ObjectID = "jYa-0Y-3hw"; */
+"jYa-0Y-3hw.text" = "000/999 MB";
+
+/* Class = "UILabel"; text = "Download Model Data"; ObjectID = "jpZ-dS-CcU"; */
+"jpZ-dS-CcU.text" = "モデルデータのダウンロード";
+
+/* Class = "UILabel"; text = "Download Model Data"; ObjectID = "zFE-yd-FRP"; */
+"zFE-yd-FRP.text" =  "画像認識には、学習済みのモデルデータのダウンロードが必要です。\nモデルデータサイズは非常に大きなサイズなため、携帯回線ではダウンロードに時間がかかります。\n\nWiFi接続でのダウンロードをお勧めします。";
+
+/* Class = "UILabel"; text = "* VGG-16 requires 2GB memory to execute."; ObjectID = "TLe-6L-Gar"; */
+"TLe-6L-Gar.text" = "* VGG-16の利用には2GB以上のメモリが必要です。";
+
+/* Class = "UILabel"; text = "* VGG-16 requires 2GB memory to execute."; ObjectID = "3qI-MP-HlK"; */
+"3qI-MP-HlK.text" = "* VGG-16の利用には2GB以上のメモリが必要です。";
