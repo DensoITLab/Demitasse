@@ -111,7 +111,7 @@ iOS向けにビルドするため aarch64 アーキテクチャのサポート�
 ```
 $ git clone https://github.com/DensoITLab/ispc
 $ cd ispc
-$ git checkout -b aarch64
+$ git checkout aarch64
 ```
 
 ## bisonのインストール
@@ -121,6 +121,12 @@ macOSでは、インストール済みのbisonのバージョンが古いため�
 ```
 $ brew install bison
 $ brew link --force bison
+```
+
+作業が終わったら，インストール済みのものに戻すために```unlink```しておく．
+
+```
+$ brew unlink --force bison
 ```
 
 ## 環境変数の設定
@@ -155,7 +161,7 @@ $ sudo cp ispc /usr/local/bin
 ## 依存モジュールのインストール
 
 ```
-$ brew install protobuf flatbuffers
+$ brew install protobuf flatbuffers libpng
 ```
 
 ## リポジトリの取得
@@ -164,7 +170,7 @@ GitHub Enterpriseのリポジトリからビルド環境にクローンします
 （※　公開前なので、今はhttp://10.81.247.114/skondo/demitasseを利用する）
 
 ```
-$ git clone https://github.com/DensoITLab/demitasse
+$ git clone https://github.com/DensoITLab/Demitasse
 ```
 
 ## macOS向けビルド
@@ -173,9 +179,9 @@ $ git clone https://github.com/DensoITLab/demitasse
 ビルドには，"Command Line Tools"のインストールが必要です．[Apple](https://developer.apple.com/download/more/)からダウンロードしてください．
 
 ```
-$ mkdir demitasse_build
-$ cd demitasse_build
-$ cmake ../demitasse
+$ mkdir build_Demitasse
+$ cd build_Demitasse
+$ cmake ../Demitasse
 $ make -j 4
 ```
 
