@@ -49,6 +49,7 @@ add_custom_command(
 
 add_custom_command(
   OUTPUT ${CMAKE_CURRENT_BINARY_DIR}/CMakeFiles/$ENV{PROJECT_NAME}.dir/caffe.pb.cc
+  COMMAND mkdir -p ${CMAKE_CURRENT_BINARY_DIR}/CMakeFiles/$ENV{PROJECT_NAME}.dir
   COMMAND echo `pwd`
   COMMAND protoc --proto_path=${CMAKE_CURRENT_SOURCE_DIR} --cpp_out=${CMAKE_CURRENT_BINARY_DIR}/CMakeFiles/$ENV{PROJECT_NAME}.dir ${CMAKE_CURRENT_SOURCE_DIR}/caffe.proto
   DEPENDS ${CMAKE_CURRENT_SOURCE_DIR}/caffe.proto
