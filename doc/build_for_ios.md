@@ -1,42 +1,36 @@
-demitasseのビルド環境設定
+How to build Demitasse
 -----------------------
 
-# はじめに
+## Preparation on host machine
 
-以下、iOSデモアプリをビルドするために必要な手順をまとめます。
-
-ここでは、アプリのビルドに必要な各種コンパイラ、ツールのインストール手順を示します。
-iOSアプリのビルドは、ホストマシン(macOS)上で行います。
-
-## ホストマシンでの事前準備
-
-macOSホストマシンでは、以下のツールが必要となります。
+This document shows the procedure for installing various compilers and tools necessary for building an application that uses Demitasse
+Build the iOS application on the host machine (macOS).
+On the macOS host machine, the following tools are required.
 
 ### Commandline tools for XCode
 
-あらかじめCommandline tools for XCodeをインストールしてください。
+Install [Commandline tools for XCode](https://developer.apple.com/download/more/) beforehand.
 
 ### Homebrew
 
-各種依存ツールをインストールするためにHomebrewパッケージ管理ツールを利用します。
-ホストマシン上であらかじめbrewコマンドが利用できるように設定してください。
+We use the Homebrew package management tool to install various tools.
+Please setup Homebrew on the host machine.
 
-### その他のツール
+### Other
 
-demitasseのビルドには、cmake, gitなどが必要です。brewコマンドでホストマシン上にインストールします。
+To build demitasse, you need cmake, git, etc. Install it on the host machine with the following brew command.
 
 ```
 $ brew install cmake git
 ```
 
-# Clang/LLVMコンパイラのインストール
+## Installation of clang/LLVM
 
-ispcのビルドのためには、最新のLLVMが必要となる。
-LLVM公式ページから、バイナリパッケージを入手してインストールするか、各プラットフォームごとにパッケージ管理システムからインストールする方法があります。
+For building ispc, the latest LLVM is required.
+You can obtain and install a binary package from the LLVM official site, or install it from the package management system for each platform.
+Since cross-compiling settings for ARM and AArch64 targets are required when you build ispc for a target other than host, such as for iPhone. Here, we explain how to build from source.
 
-iPhone向けなど、ホスト以外のターゲット向けのビルドが必要な場合には、ARM, AArch64ターゲット向けのクロスコンパイル設定が必要なため、ここでは、ソースからビルドする方法を説明します。
-
-## ソースリポジトリの取得
+### Clone source code
 
 ```
 $ git clone http://llvm.org/git/llvm.git
@@ -48,9 +42,9 @@ $ (cd projects/; git clone http://llvm.org/git/libcxx.git)
 $ (cd projects/; git clone http://llvm.org/git/libcxxabi.git)
 ```
 
-## 最新バージョンのブランチに切り替え
+### Check out the latest branch of each repositories
 
-現時点（2016.10.12）での最新版のリリースバージョン3.9.0を利用する場合には、以下のようにブランチをチェックアウトする。
+To use the latest release version 3.9.0 at the present time (2016.10.12), check out the branch as follows.
 
 ```
 $ git checkout -b release_39 origin/release_39
@@ -61,10 +55,10 @@ $ (cd projects/libcxx; git checkout -b release_39 origin/release_39)
 $ (cd projects/libcxxabi; git checkout -b release_39 origin/release_39)
 ```
 
-## ld.goldに切り替え
+### Switch to ld.gold(for Linux)
 
-Linux上で環境構築する際に、ldを別のものに切り替えます。
-macOSでは以下の操作は不要です。
+When setting up the environment on Linux, switch ld to another one.
+You do not have to execute the following operations in macOS.
 
 ```
 $ sudo update-alternatives --install "/usr/bin/ld" "ld" "/usr/bin/ld.gold" 20
@@ -72,13 +66,12 @@ $ sudo update-alternatives --install "/usr/bin/ld" "ld" "/usr/bin/ld.bfd" 10
 $ sudo update-alternatives --set ld /usr/bin/ld.gold
 ```
 
-## Clang/LLVMのビルド
+### Build clang/LLVM
 
-リポジトリとは別のディレクトリでClang/LLVMをビルドします。
-iOS向けにもビルドする必要があるため、ARM, AArch64ターゲットの指定が必要です。
+Build it using cmake, build Clang / LLVM in a directory different from the repository.
+You need to designated their building targets as ARM, AArch64.
 
-cmakeコマンド実行時の引数`LLVM_TARGETS_TO_BULD`にターゲットプラットフォームとしてX86, ARM, AArch64を指定します。
-
+Specify X86, ARM, AArch64 as `LLVM_TARGETS_TO_BULD` when executing the cmake command.
 
 ```
 % cd ..
@@ -88,25 +81,23 @@ $ cmake ../llvm -DCMAKE_BUILD_TYPE=Release -DLLVM_TARGETS_TO_BUILD="X86;ARM;AArc
 $ make -j 4
 ```
 
-## Clang/LLVMのインストール
-
-ビルドしたClang/LLVMをインストールします。
+### Install clang/LLVM
 
 ```
 $ sudo make install
 ```
 
-デフォルトでは/usr/local以下にインストールされますが、他のディレクトリパスにインストールする場合には、以下の環境変数LLVM_HOMEを適切に設定してください。
-.bash_profileなどに以下の行を追加して、環境変数を設定します。
+By default it will be installed under `/usr/local`, but if you want to install them to other directory paths, please set the following environment variable `LLVM_HOME `appropriately.
+Add the following lines to .bash_profile etc and set environment variables.
 
 ```
 export LLVM_HOME=<llvm install path>
 ```
 
-# ispcのインストール
+## Installation of ispc
 
-iOS向けにビルドするため aarch64 アーキテクチャのサポートが必要になります。
-オリジナルのリポジトリにaarch64対応がmergeされるまでforkしたものを利用します。以下のリポジトリをcloneし、aarch64ブランチに切り替えます。
+Support for the aarch64 architecture is required to build for iOS.
+We will use what we forked until aarch64 correspondence is merged into the original repository. Clone the following repository and switch to aarch64 branch.
 
 ```
 $ git clone https://github.com/DensoITLab/ispc
@@ -114,69 +105,68 @@ $ cd ispc
 $ git checkout aarch64
 ```
 
-## bisonのインストール
+### Install bison
 
-macOSでは、インストール済みのbisonのバージョンが古いため、brewコマンドにより最新バージョンのbisonをインストールする。
+In macOS, installed version of bison is old. Install latest bison with brew command.
 
 ```
 $ brew install bison
 $ brew link --force bison
 ```
 
-作業が終わったら，インストール済みのものに戻すために```unlink```しておく．
+After doing the work, set `unlink` to restore the existing one.
 
 ```
 $ brew unlink --force bison
 ```
 
-## 環境変数の設定
+### Set `LLVM_HOME`
 
-ispcにて利用するLLVMを明示的に指定するため、以下の環境変数を設定します。
+In order to explicitly specify the LLVM used for building ispc, set the following environment variables.
 
 ```
 LLVM_HOME=/usr/local
 ```
 
-## Makefileの設定
+### Edit Makefile
 
-iOS向けのビルドを行うために、ARMターゲットを有効にする必要があります。
-ARMターゲットを追加するため、Makefile中のARM_ENABLEDを以下のように設定します。
+In order to build for iOS, you need to enable ARM target.
+Edit `ARM_ENABLED` in Makefile as follows.
 
 ```
 ARM_ENABLED=1
 ```
 
-## ispcのビルド
+### Build ispc
 
-makeコマンドでビルドします。
-Makefileにinstallターゲットがないため、手動でispcをコピーします。
+Build ispc with the make command.
+Since there is no install target in the Makefile, we will manually copy ispc.
 
 ```
 $ make -j 4
 $ sudo cp ispc /usr/local/bin
 ```
 
-# demitasseのビルド
+## Build Demitasse
 
-## 依存モジュールのインストール
+### Install dependent modules
+
+Install follows using brew command.
 
 ```
 $ brew install protobuf flatbuffers libpng
 ```
 
-## リポジトリの取得
-
-GitHub Enterpriseのリポジトリからビルド環境にクローンします。
-（※　公開前なので、今はhttp://10.81.247.114/skondo/demitasseを利用する）
+### Clone repository
 
 ```
 $ git clone https://github.com/DensoITLab/Demitasse
 ```
 
-## macOS向けビルド
+### Build for macOS
 
-ビルド用のディレクトリ上で、ビルドします。
-ビルドには，"Command Line Tools"のインストールが必要です．[Apple](https://developer.apple.com/download/more/)からダウンロードしてください．
+Build Demitasse with a directory different from the repository because we use cmake.
+To build, "Command Line Tools" installation is required. Please download from [Apple] (https://developer.apple.com/download/more/).
 
 ```
 $ mkdir build_Demitasse
@@ -185,7 +175,8 @@ $ cmake ../Demitasse
 $ make -j 4
 ```
 
-## iOS向けビルド
+### Build for iOS
 
-iOS向けデモアプリ、ライブラリビルドでは、Xcodeを利用します。
-./demitasse/ios/DemoApp/Demitasse.xcodeprojファイルを開き、アプリおよびライブラリのビルドを行います。
+You can build a sample application or Demitasse library for iOS using Xcode. 
+
+Open `./demitasse/ios/DemoApp/Demitasse.xcodeproj` using Xcode.
