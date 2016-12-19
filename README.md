@@ -5,8 +5,8 @@ Demitasse is the Deep Neural Network Library for mobile devices(non GPGPU).
 
 ## How to build for macOS and Linux
 
-* [See documentation.](https://github.com/DensoITLab/Demitasse/blob/documentation/doc/build_for_ios.md)
-* [日本語ドキュメントもあります．](https://github.com/DensoITLab/Demitasse/blob/documentation/doc/build_for_ios_ja.md)
+* [See documentation.](https://github.com/DensoITLab/Demitasse/blob/master/doc/build_for_ios.md)
+* [日本語ドキュメントもあります．](https://github.com/DensoITLab/Demitasse/blob/master/doc/build_for_ios_ja.md)
 * [Here](https://gist.github.com/sonsongithub/b836d8cf7d81b600e7f0fe18fa5f261a) is building script for macOS.
 
 ## How to convert parameters from caffe

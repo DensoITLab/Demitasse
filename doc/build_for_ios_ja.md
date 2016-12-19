@@ -189,3 +189,4 @@ $ make -j 4
 
 iOS向けデモアプリ、ライブラリビルドでは、Xcodeを利用します。
 ./demitasse/ios/DemoApp/Demitasse.xcodeprojファイルを開き、アプリおよびライブラリのビルドを行います。
+`
