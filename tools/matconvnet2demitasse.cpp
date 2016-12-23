@@ -35,6 +35,10 @@ POSSIBILITY OF SUCH DAMAGE.
 
 #include <fstream>
 
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <libgen.h>
+
 #include "mat.h"
 #include "matrix.h"
 
@@ -924,6 +928,14 @@ void load_matconvnet_model(const std::string& model, const std::string& outfile)
   write_model_to_file(builder, outfile);
 }
 
+void create_dirs(const char* path) {
+  const char *dir_name = dirname((char *)path);
+
+  if (strcmp(dir_name, ".") != 0 && strcmp(dir_name, "/") != 0) {
+    mkdir(dir_name, 0777);
+  }
+}
+
 int main(int argc, char** argv) {
   if (argc < 2) {
     printf("Usage: %s <model> [<output>]\n", argv[0]);
@@ -933,6 +945,8 @@ int main(int argc, char** argv) {
   const char* model   = argv[1];
   const char* outfile = "./vudnn.model";
   if (argc == 3) {
+    // prepare directory
+    create_dirs(argv[2]);
     outfile = argv[2];
   }
 

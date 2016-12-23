@@ -11,7 +11,26 @@ Demitasse is the Deep Neural Network Library for mobile devices(non GPGPU).
 
 ## How to convert parameters from caffe
 
-To be written.
+Demitasse supports to import pre-trained model data from [Caffe Model Zoo.](https://github.com/BVLC/caffe/wiki/Model-Zoo)
+
+At this moment, we tested VGG-16 and VGG-CNN-F pre-trained model data for Demitasse.
+
+### Model data download
+
+First, you have to download pre-trained model file(.caffemodel) and model definition file(.prototxt).
+Here is downloading script in data/vgg_16/fetch_data.sh and data/vgg_cnn_f/fetch_data.sh.
+
+```
+$ cd data/vgg-16
+$ ./fetch_data.sh
+```
+### Model data conversion
+
+To convert Caffe model data file to Demitasse model file, use caffe2demitasse command.
+
+```
+$ caffe2demitasse <model .protobuf file> <model file .caffemodel> <output_file>
+```
 
 ## Reference
 

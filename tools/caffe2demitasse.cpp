@@ -36,6 +36,10 @@ POSSIBILITY OF SUCH DAMAGE.
 #include <memory>
 #include <fstream>
 
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <libgen.h>
+
 #include <google/protobuf/io/coded_stream.h>
 #include <google/protobuf/io/zero_copy_stream_impl.h>
 #include <google/protobuf/text_format.h>
@@ -804,6 +808,14 @@ void load_caffemodel(const std::string& proto, const std::string& model, const s
   google::protobuf::ShutdownProtobufLibrary();
 }
 
+void create_dirs(const char* path) {
+  const char *dir_name = dirname((char *)path);
+
+  if (strcmp(dir_name, ".") != 0 && strcmp(dir_name, "/") != 0) {
+    mkdir(dir_name, 0777);
+  }
+}
+
 int main(int argc, char** argv) {
 
   if (argc < 3) {
@@ -816,6 +828,8 @@ int main(int argc, char** argv) {
 
   const char* outfile = "./vudnn.model";
   if (argc == 4) {
+    // prepare directory
+    create_dirs(argv[3]);
     outfile = argv[3];
   }
 
