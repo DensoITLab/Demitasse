@@ -37,4 +37,4 @@ run (git clone https://github.com/DensoITLab/ispc; cd ispc; make; cp ispc /usr/l
 run git clone https://github.com/DensoITLab/Demitasse
 run (cd Demitasse; sed -i -e "s/set (BLAS \"atlas\")/set (BLAS \"open\")/" CMakeLists.txt;)
 run mkdir -p /root/build_Demitasse
-run (cd build_Demitasse; cmake ../Demitasse; make; make test)
+run (cd build_Demitasse; cmake ../Demitasse; make;)
