@@ -34,11 +34,7 @@ run (git clone https://github.com/google/flatbuffers.git; mkdir -p /root/build_f
 run (git clone https://github.com/DensoITLab/ispc; cd ispc; make; cp ispc /usr/local/bin)
 
 # Demitasse
-run (git clone https://github.com/DensoITLab/Demitasse; \
-    cd Demitasse; \
-    sed -i -e "s/set (BLAS \"atlas\")/set (BLAS \"open\")/" CMakeLists.txt; \
-    mkdir -p ../build_Demitasse; \
-    cd ../build_Demitasse; \
-    cmake ../Demitasse; \
-    make; \
-    make test)
+run git clone https://github.com/DensoITLab/Demitasse
+run (cd Demitasse; sed -i -e "s/set (BLAS \"atlas\")/set (BLAS \"open\")/" CMakeLists.txt;)
+run mkdir -p /root/build_Demitasse
+run (cd build_Demitasse; cmake ../Demitasse; make; make test)
