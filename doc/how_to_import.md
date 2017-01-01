@@ -9,7 +9,7 @@ You have to download pre-trained model file(.caffemodel) and model definition fi
 Here is downloading script in `./data/vgg_16/fetch_data.sh` or `./data/vgg_cnn_f/fetch_data.sh`.
 
 ```
-$ cd ./data/vgg-16
+$ cd ./data/vgg_16
 $ ./fetch_data.sh
 ```
 
@@ -31,7 +31,7 @@ $ caffe2demitasse <model .protobuf file> <model file .caffemodel> <output_file>
 So, you can convert the downloaded files by the following commands.
 
 ```
-$ cd ./data/vgg-16
+$ cd ./data/vgg_16
 $ ../../../build_Demitasse/tools/caffe2demitasse \
 ./VGG_ILSVRC_16_layers_deploy.prototxt \
 ./VGG_ILSVRC_16_layers.caffemodel \
