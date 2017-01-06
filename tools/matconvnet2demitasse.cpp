@@ -34,16 +34,15 @@ POSSIBILITY OF SUCH DAMAGE.
 #include <math.h>
 
 #include <fstream>
-
-#include <sys/stat.h>
-#include <sys/types.h>
-#include <libgen.h>
+#include <iostream>
 
 #include "mat.h"
 #include "matrix.h"
 
 #include "flatbuffers/flatbuffers.h"
 #include "network_model_generated.h"
+
+#include "create_dirs.h"
 
 using DataInputForm = struct {
         int w; // width
@@ -838,8 +837,12 @@ void write_model_to_file(flatbuffers::FlatBufferBuilder& builder, const std::str
 
   std::ofstream fs(file, std::ios::out | std::ios::binary | std::ios::trunc);
 
-  fs.write((const char*)buffer, size);
-  fs.close();
+  if (fs.is_open()) {
+    fs.write((const char*)buffer, size);
+    fs.close();
+  } else {
+    std::cerr << "Failed to open file :" << errno << std::endl;
+  }
 
   builder.ReleaseBufferPointer();
 }
@@ -928,13 +931,6 @@ void load_matconvnet_model(const std::string& model, const std::string& outfile)
   write_model_to_file(builder, outfile);
 }
 
-void create_dirs(const char* path) {
-  const char *dir_name = dirname((char *)path);
-
-  if (strcmp(dir_name, ".") != 0 && strcmp(dir_name, "/") != 0) {
-    mkdir(dir_name, 0777);
-  }
-}
 
 int main(int argc, char** argv) {
   if (argc < 2) {
