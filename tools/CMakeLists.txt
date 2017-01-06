@@ -69,6 +69,7 @@ include_directories(${CMAKE_CURRENT_BINARY_DIR}/CMakeFiles/$ENV{PROJECT_NAME}.di
 # Caffe Tools
 #
 add_executable(caffe2demitasse
+  create_dirs.cpp
   caffe2demitasse.cpp
   ${CMAKE_CURRENT_BINARY_DIR}/CMakeFiles/$ENV{PROJECT_NAME}.dir/caffe.pb.cc
   network_model_generated.h
@@ -104,6 +105,7 @@ if (Matlab_FOUND)
   link_directories(${Matlab_LIBRARY_DIRS})
 
   add_executable(matconvnet2demitasse
+    create_dirs.cpp
     matconvnet2demitasse.cpp
     network_model_generated.h
   )
