@@ -1,4 +1,4 @@
-demitasseのビルド環境設定
+demitasseのビルド for macOS
 -----------------------
 
 # はじめに
@@ -59,17 +59,6 @@ $ (cd projects/compiler-rt; git checkout -b release_39 origin/release_39)
 $ (cd projects/openmp; git checkout -b release_39 origin/release_39)
 $ (cd projects/libcxx; git checkout -b release_39 origin/release_39)
 $ (cd projects/libcxxabi; git checkout -b release_39 origin/release_39)
-```
-
-## ld.goldに切り替え
-
-Linux上で環境構築する際に、ldを別のものに切り替えます。
-macOSでは以下の操作は不要です。
-
-```
-$ sudo update-alternatives --install "/usr/bin/ld" "ld" "/usr/bin/ld.gold" 20
-$ sudo update-alternatives --install "/usr/bin/ld" "ld" "/usr/bin/ld.bfd" 10
-$ sudo update-alternatives --set ld /usr/bin/ld.gold
 ```
 
 ## Clang/LLVMのビルド
