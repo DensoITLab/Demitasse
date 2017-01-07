@@ -42,9 +42,3 @@ run (cd llvm/projects/compiler-rt; git checkout -b release_39 origin/release_39)
 run (cd llvm/projects/openmp; git checkout -b release_39 origin/release_39)
 run (cd llvm/projects/libcxx; git checkout -b release_39 origin/release_39)
 run (cd llvm/projects/libcxxabi; git checkout -b release_39 origin/release_39)
-
-run export LLVM_HOME=/usr/local/
-
-WORKDIR /root/
-run git clone https://github.com/DensoITLab/ispc
-run (cd ispc; make; cp ispc /usr/local/bin)
