@@ -38,7 +38,7 @@ run (cd llvm/projects/; git clone http://llvm.org/git/libcxxabi.git)
 
 run (cd llvm; git checkout -b release_39 origin/release_39)
 run (cd llvm/tools/clang; git checkout -b release_39 origin/release_39)
-run (cd lvm/projects/compiler-rt; git checkout -b release_39 origin/release_39)
+run (cd llvm/projects/compiler-rt; git checkout -b release_39 origin/release_39)
 run (cd llvm/projects/openmp; git checkout -b release_39 origin/release_39)
 run (cd llvm/projects/libcxx; git checkout -b release_39 origin/release_39)
 run (cd llvm/projects/libcxxabi; git checkout -b release_39 origin/release_39)
