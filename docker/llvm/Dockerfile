@@ -1,4 +1,4 @@
-FROM llvmsrc:3.9
+FROM sonsongithub/llvmsrc:3.9
 
 run mkdir -p /root/build_llvm
 WORKDIR /root/build_llvm
