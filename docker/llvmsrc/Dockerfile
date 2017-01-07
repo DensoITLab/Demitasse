@@ -13,7 +13,7 @@ run apt-get install -y --no-install-recommends \
     libprotobuf-dev \
     protobuf-compiler \
     bison \
-    libpng15-dev \
+    libpng16-dev \
     ca-certificates \
     python-dev \
     flex \
