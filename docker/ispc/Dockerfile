@@ -1,4 +1,4 @@
-FROM llvm:3.9
+FROM sonsongithub/llvm:3.9
 
 run export LLVM_HOME=/usr/local/
 
