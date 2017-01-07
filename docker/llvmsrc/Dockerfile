@@ -24,11 +24,10 @@ run apt-get clean && rm -rf /var/cache/apt/archives/* /var/lib/apt/lists/*
 
 WORKDIR /root
 run git clone https://github.com/google/flatbuffers.git
-run mkdir -p /root/flatbuffers/build
-WORKDIR /root/flatbuffers/build
-run cmake ..
-run make install
+run mkdir -p /root/build_flatbuffers
+run (cd /root/build_flatbuffers; cmake ../flatbuffers; make install)
 
+WORKDIR /root
 run git clone http://llvm.org/git/llvm.git
 run (cd llvm/tools/; git clone http://llvm.org/git/clang.git)
 run (cd llvm/projects/; git clone http://llvm.org/git/compiler-rt.git)
