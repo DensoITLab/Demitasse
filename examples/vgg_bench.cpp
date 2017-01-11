@@ -103,12 +103,12 @@ int main(int argc, char** argv) {
 
   const char* model_file = argv[1];       // "../data/vgg_cnn_f/vudnn.model"
 
-  auto labels = load_synset("../data/ilsvrc/synset_words.txt");
+  auto labels = load_synset("../../Demitasse/data/ilsvrc/synset_words.txt");
 
   demitasse::Model* model = new demitasse::Model();
   model->load(model_file);
 
-  auto input01 = load_preprocessed_image("../data/ilsvrc/sample01.png");
+  auto input01 = load_preprocessed_image("../../Demitasse/data/ilsvrc/sample.png");
   fprintf(stderr, "preprocessed img01\n");
 
 /*
