@@ -155,9 +155,7 @@ $ brew install protobuf flatbuffers libpng
 
 ## リポジトリの取得
 
-GitHub Enterpriseのリポジトリからビルド環境にクローンします。
-（※　公開前なので、今はhttp://10.81.247.114/skondo/demitasseを利用する）
-
+GitHub Enterpriseのリポジトリからビルド環境にクローンします．
 ```
 $ git clone https://github.com/DensoITLab/Demitasse
 ```
